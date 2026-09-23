@@ -58,7 +58,8 @@ def main():
     parser.add_argument("-k", "--top-k", type=int, default=5)
     parser.add_argument("--transcript-dir", required=True)
     parser.add_argument("--out", required=True)
-    parser.add_argument("--jobs", type=int, default=5, help="checkpoints evaluated in parallel")
+    parser.add_argument("--jobs", type=int, default=3,
+                        help="checkpoints evaluated in parallel; each loads Whisper (~5 GB VRAM)")
     a = parser.parse_args()
 
     base_dir = os.path.join("logs", a.name)
