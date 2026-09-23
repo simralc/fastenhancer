@@ -31,7 +31,7 @@ for name in "${!files[@]}"; do
   [[ -f "$data/zips/$name.done" ]] && continue
   curl -fL --retry 5 -C - -o "$data/zips/$name.zip" "$api/${files[$name]}/content"
   if [[ $name == logfiles ]]; then
-    unzip -qo "$data/zips/$name.zip" -d "$data" -x '__MACOSX/*'
+    unzip -qo "$data/zips/$name.zip" -d "$data/logfiles" -x '__MACOSX/*'
   else
     unzip -qo "$data/zips/$name.zip" -d "$data/48k" -x '__MACOSX/*'
   fi
