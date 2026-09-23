@@ -16,4 +16,3 @@ transcript="$data/logfiles/transcript_testset.txt"
   https://github.com/aask1357/fastenhancer/releases/download/test-data-v1/transcript_testset.txt
 
 python -m scripts.runpod.eval_top5 -n "$name" --transcript-dir "$transcript" --out "$out" "$@"
-cp "logs/$name/config.yaml" "$out/config.yaml"

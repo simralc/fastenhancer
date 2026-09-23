@@ -15,8 +15,10 @@ import csv
 import glob
 import json
 import os
+import shutil
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor
 
 import torch
 from tensorboard.backend.event_processing.event_accumulator import EventAccumulator
@@ -39,9 +41,9 @@ def logged_pesq(base_dir):
     return scores
 
 
-def evaluate(name, epoch, transcript_dir):
+def evaluate(name, epoch, transcript_dir, num_threads):
     cmd = [sys.executable, "-m", "scripts.metrics_ns", "-n", name, "-e", str(epoch),
-           "-d", "cuda:0", "--num-threads", "4", "--transcript-dir", transcript_dir]
+           "-d", "cuda:0", "--num-threads", str(num_threads), "--transcript-dir", transcript_dir]
     proc = subprocess.run(cmd, capture_output=True, text=True)
     if proc.returncode != 0:
         raise RuntimeError(f"metrics_ns failed for epoch {epoch}:\n{proc.stderr[-3000:]}")
@@ -56,6 +58,7 @@ def main():
     parser.add_argument("-k", "--top-k", type=int, default=5)
     parser.add_argument("--transcript-dir", required=True)
     parser.add_argument("--out", required=True)
+    parser.add_argument("--jobs", type=int, default=5, help="checkpoints evaluated in parallel")
     a = parser.parse_args()
 
     base_dir = os.path.join("logs", a.name)
@@ -74,16 +77,21 @@ def main():
             w.writerow([e, f"{scores[e]['pesq']:.4f}",
                         "" if scores[e]["stoi"] is None else f"{scores[e]['stoi']:.4f}", e in saved])
 
+    jobs = max(1, min(a.jobs, len(top)))
+    threads = max(1, (os.cpu_count() or 1) // jobs)
+    print(f"Evaluating {len(top)} checkpoints, {jobs} in parallel, {threads} threads each...", flush=True)
+    with ThreadPoolExecutor(jobs) as ex:
+        results = list(ex.map(lambda e: evaluate(a.name, e, a.transcript_dir, threads), top))
     rows = []
-    for rank, epoch in enumerate(top, 1):
-        print(f"Evaluating epoch {epoch} ({rank}/{len(top)})...", flush=True)
+    for rank, (epoch, metrics) in enumerate(zip(top, results), 1):
         row = {"rank": rank, "epoch": epoch, "logged_pesq": round(scores[epoch]["pesq"], 4)}
-        row.update(evaluate(a.name, epoch, a.transcript_dir))
+        row.update(metrics)
         rows.append(row)
         print(row, flush=True)
         ckpt = torch.load(os.path.join(base_dir, f"{epoch:0>5d}.pth"), map_location="cpu")
         torch.save({"model": ckpt["model"], "epoch": ckpt["epoch"]},
                    os.path.join(a.out, f"model_{epoch:0>5d}.pth"))
+    shutil.copy(os.path.join(base_dir, "config.yaml"), os.path.join(a.out, "config.yaml"))
 
     with open(os.path.join(a.out, "results.csv"), "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
