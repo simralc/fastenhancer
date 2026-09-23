@@ -1,0 +1,1500 @@
+Epoch 1 - Time: 39.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0723   loss/complex_mse: 0.1367   loss/consistency: 0.1429   loss/wav_l1: 0.0379   loss/pesq: 4.1727   lr: 4.00e-06   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0284   loss/complex_mse: 0.0565   loss/consistency: 0.0590   loss/wav_l1: 0.0199   loss/pesq: 2.8233
+Epoch 2 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0293   loss/complex_mse: 0.0590   loss/consistency: 0.0597   loss/wav_l1: 0.0185   loss/pesq: 3.0262   lr: 7.24e-04   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0142   loss/complex_mse: 0.0300   loss/consistency: 0.0302   loss/wav_l1: 0.0123   loss/pesq: 2.2763
+Epoch 3 - Time: 33.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0219   loss/complex_mse: 0.0479   loss/consistency: 0.0482   loss/wav_l1: 0.0159   loss/pesq: 2.8515   lr: 1.45e-03   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0135   loss/complex_mse: 0.0288   loss/consistency: 0.0291   loss/wav_l1: 0.0131   loss/pesq: 2.2804
+Epoch 4 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0202   loss/complex_mse: 0.0465   loss/consistency: 0.0469   loss/wav_l1: 0.0153   loss/pesq: 2.8055   lr: 2.00e-03   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0128   loss/complex_mse: 0.0280   loss/consistency: 0.0280   loss/wav_l1: 0.0145   loss/pesq: 2.2027
+Epoch 5 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0195   loss/complex_mse: 0.0459   loss/consistency: 0.0462   loss/wav_l1: 0.0152   loss/pesq: 2.7726   lr: 2.00e-03   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0113   loss/complex_mse: 0.0276   loss/consistency: 0.0276   loss/wav_l1: 0.0103   loss/pesq: 2.1505
+Epoch 6 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0190   loss/complex_mse: 0.0455   loss/consistency: 0.0457   loss/wav_l1: 0.0145   loss/pesq: 2.7424   lr: 2.00e-03   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0117   loss/complex_mse: 0.0272   loss/consistency: 0.0273   loss/wav_l1: 9.99e-03   loss/pesq: 2.1444
+Epoch 7 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0186   loss/complex_mse: 0.0451   loss/consistency: 0.0454   loss/wav_l1: 0.0142   loss/pesq: 2.7183   lr: 2.00e-03   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0109   loss/complex_mse: 0.0275   loss/consistency: 0.0275   loss/wav_l1: 9.63e-03   loss/pesq: 2.1417
+Epoch 8 - Time: 34.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0183   loss/complex_mse: 0.0449   loss/consistency: 0.0450   loss/wav_l1: 0.0140   loss/pesq: 2.7019   lr: 2.00e-03   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0107   loss/complex_mse: 0.0273   loss/consistency: 0.0273   loss/wav_l1: 9.20e-03   loss/pesq: 2.1146
+Epoch 9 - Time: 41.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0181   loss/complex_mse: 0.0447   loss/consistency: 0.0449   loss/wav_l1: 0.0139   loss/pesq: 2.6873   lr: 2.00e-03   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0274   loss/consistency: 0.0273   loss/wav_l1: 9.36e-03   loss/pesq: 2.0954
+Epoch 10 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0178   loss/complex_mse: 0.0446   loss/consistency: 0.0447   loss/wav_l1: 0.0136   loss/pesq: 2.6723   lr: 2.00e-03   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0272   loss/consistency: 0.0271   loss/wav_l1: 8.59e-03   loss/pesq: 2.0851
+Epoch 11 - Time: 37.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0176   loss/complex_mse: 0.0443   loss/consistency: 0.0444   loss/wav_l1: 0.0135   loss/pesq: 2.6568   lr: 2.00e-03   scale: 65536.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0273   loss/consistency: 0.0272   loss/wav_l1: 8.86e-03   loss/pesq: 2.0615
+Epoch 12 - Time: 40.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0174   loss/complex_mse: 0.0442   loss/consistency: 0.0442   loss/wav_l1: 0.0134   loss/pesq: 2.6410   lr: 2.00e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 0.0113   loss/complex_mse: 0.0268   loss/consistency: 0.0268   loss/wav_l1: 8.97e-03   loss/pesq: 2.0323
+Epoch 13 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0173   loss/complex_mse: 0.0441   loss/consistency: 0.0441   loss/wav_l1: 0.0132   loss/pesq: 2.6314   lr: 2.00e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 9.97e-03   loss/complex_mse: 0.0272   loss/consistency: 0.0270   loss/wav_l1: 8.26e-03   loss/pesq: 2.0394
+Epoch 14 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0171   loss/complex_mse: 0.0440   loss/consistency: 0.0439   loss/wav_l1: 0.0131   loss/pesq: 2.6174   lr: 2.00e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0269   loss/consistency: 0.0268   loss/wav_l1: 8.56e-03   loss/pesq: 2.0219
+Epoch 15 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0171   loss/complex_mse: 0.0439   loss/consistency: 0.0438   loss/wav_l1: 0.0131   loss/pesq: 2.6104   lr: 2.00e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 0.0106   loss/complex_mse: 0.0266   loss/consistency: 0.0265   loss/wav_l1: 8.64e-03   loss/pesq: 2.0044
+Epoch 16 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0169   loss/complex_mse: 0.0438   loss/consistency: 0.0437   loss/wav_l1: 0.0130   loss/pesq: 2.6022   lr: 2.00e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0266   loss/consistency: 0.0265   loss/wav_l1: 8.38e-03   loss/pesq: 2.0267
+Epoch 17 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0169   loss/complex_mse: 0.0437   loss/consistency: 0.0436   loss/wav_l1: 0.0129   loss/pesq: 2.5989   lr: 2.00e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 9.64e-03   loss/complex_mse: 0.0271   loss/consistency: 0.0270   loss/wav_l1: 8.16e-03   loss/pesq: 2.0060
+Epoch 18 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0168   loss/complex_mse: 0.0437   loss/consistency: 0.0436   loss/wav_l1: 0.0128   loss/pesq: 2.5922   lr: 2.00e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 9.45e-03   loss/complex_mse: 0.0272   loss/consistency: 0.0271   loss/wav_l1: 8.18e-03   loss/pesq: 2.0057
+Epoch 19 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0166   loss/complex_mse: 0.0435   loss/consistency: 0.0434   loss/wav_l1: 0.0127   loss/pesq: 2.5788   lr: 1.99e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 9.38e-03   loss/complex_mse: 0.0272   loss/consistency: 0.0269   loss/wav_l1: 7.87e-03   loss/pesq: 2.0241
+Epoch 20 - Time: 47.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0167   loss/complex_mse: 0.0435   loss/consistency: 0.0434   loss/wav_l1: 0.0127   loss/pesq: 2.5757   lr: 1.99e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 0.0109   loss/complex_mse: 0.0263   loss/consistency: 0.0262   loss/wav_l1: 8.46e-03   loss/pesq: 2.0078   metrics/pesq: 2.6925   metrics/stoi: 0.9264   metrics/best_pesq: 2.6925   metrics/best_stoi: 0.9264
+Epoch 21 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0166   loss/complex_mse: 0.0435   loss/consistency: 0.0433   loss/wav_l1: 0.0126   loss/pesq: 2.5732   lr: 1.99e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0267   loss/consistency: 0.0266   loss/wav_l1: 7.86e-03   loss/pesq: 1.9880
+Epoch 22 - Time: 39.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0166   loss/complex_mse: 0.0435   loss/consistency: 0.0433   loss/wav_l1: 0.0126   loss/pesq: 2.5683   lr: 1.99e-03   scale: 131072.0000
+	Valid   loss/mag_mse: 9.62e-03   loss/complex_mse: 0.0272   loss/consistency: 0.0271   loss/wav_l1: 8.19e-03   loss/pesq: 1.9865
+Epoch 23 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0164   loss/complex_mse: 0.0433   loss/consistency: 0.0432   loss/wav_l1: 0.0125   loss/pesq: 2.5590   lr: 1.99e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 8.75e-03   loss/pesq: 1.9717
+Epoch 24 - Time: 41.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0163   loss/complex_mse: 0.0433   loss/consistency: 0.0431   loss/wav_l1: 0.0124   loss/pesq: 2.5486   lr: 1.99e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 9.54e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0266   loss/wav_l1: 7.68e-03   loss/pesq: 1.9763
+Epoch 25 - Time: 34.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0163   loss/complex_mse: 0.0432   loss/consistency: 0.0431   loss/wav_l1: 0.0124   loss/pesq: 2.5477   lr: 1.99e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 9.09e-03   loss/complex_mse: 0.0274   loss/consistency: 0.0272   loss/wav_l1: 7.66e-03   loss/pesq: 1.9889
+Epoch 26 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0163   loss/complex_mse: 0.0432   loss/consistency: 0.0430   loss/wav_l1: 0.0124   loss/pesq: 2.5465   lr: 1.99e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 9.20e-03   loss/complex_mse: 0.0270   loss/consistency: 0.0268   loss/wav_l1: 7.88e-03   loss/pesq: 1.9601
+Epoch 27 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0162   loss/complex_mse: 0.0431   loss/consistency: 0.0430   loss/wav_l1: 0.0123   loss/pesq: 2.5379   lr: 1.99e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 9.36e-03   loss/complex_mse: 0.0271   loss/consistency: 0.0269   loss/wav_l1: 8.00e-03   loss/pesq: 1.9649
+Epoch 28 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0162   loss/complex_mse: 0.0431   loss/consistency: 0.0429   loss/wav_l1: 0.0123   loss/pesq: 2.5336   lr: 1.99e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 8.90e-03   loss/complex_mse: 0.0273   loss/consistency: 0.0271   loss/wav_l1: 7.70e-03   loss/pesq: 1.9256
+Epoch 29 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0160   loss/complex_mse: 0.0430   loss/consistency: 0.0428   loss/wav_l1: 0.0122   loss/pesq: 2.5282   lr: 1.99e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 9.07e-03   loss/complex_mse: 0.0271   loss/consistency: 0.0268   loss/wav_l1: 7.61e-03   loss/pesq: 1.9271
+Epoch 30 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0160   loss/complex_mse: 0.0430   loss/consistency: 0.0428   loss/wav_l1: 0.0121   loss/pesq: 2.5195   lr: 1.99e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 9.38e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 7.53e-03   loss/pesq: 1.9282
+Epoch 31 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0160   loss/complex_mse: 0.0430   loss/consistency: 0.0428   loss/wav_l1: 0.0121   loss/pesq: 2.5215   lr: 1.98e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 8.82e-03   loss/complex_mse: 0.0271   loss/consistency: 0.0269   loss/wav_l1: 7.49e-03   loss/pesq: 1.9406
+Epoch 32 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0159   loss/complex_mse: 0.0429   loss/consistency: 0.0427   loss/wav_l1: 0.0121   loss/pesq: 2.5164   lr: 1.98e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 9.93e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0262   loss/wav_l1: 7.77e-03   loss/pesq: 1.9416
+Epoch 33 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0159   loss/complex_mse: 0.0429   loss/consistency: 0.0427   loss/wav_l1: 0.0120   loss/pesq: 2.5152   lr: 1.98e-03   scale: 262144.0000
+	Valid   loss/mag_mse: 9.29e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0265   loss/wav_l1: 7.61e-03   loss/pesq: 1.8988
+Epoch 34 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0158   loss/complex_mse: 0.0428   loss/consistency: 0.0426   loss/wav_l1: 0.0120   loss/pesq: 2.5102   lr: 1.98e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 8.59e-03   loss/complex_mse: 0.0271   loss/consistency: 0.0269   loss/wav_l1: 7.46e-03   loss/pesq: 1.9451
+Epoch 35 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0158   loss/complex_mse: 0.0428   loss/consistency: 0.0426   loss/wav_l1: 0.0119   loss/pesq: 2.5066   lr: 1.98e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 9.09e-03   loss/complex_mse: 0.0271   loss/consistency: 0.0268   loss/wav_l1: 7.19e-03   loss/pesq: 1.9715
+Epoch 36 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0157   loss/complex_mse: 0.0428   loss/consistency: 0.0425   loss/wav_l1: 0.0119   loss/pesq: 2.5015   lr: 1.98e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 9.10e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0265   loss/wav_l1: 7.22e-03   loss/pesq: 1.9534
+Epoch 37 - Time: 39.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0157   loss/complex_mse: 0.0428   loss/consistency: 0.0425   loss/wav_l1: 0.0119   loss/pesq: 2.4997   lr: 1.98e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 8.81e-03   loss/complex_mse: 0.0270   loss/consistency: 0.0268   loss/wav_l1: 7.21e-03   loss/pesq: 1.9702
+Epoch 38 - Time: 37.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0157   loss/complex_mse: 0.0427   loss/consistency: 0.0425   loss/wav_l1: 0.0118   loss/pesq: 2.4943   lr: 1.98e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 9.28e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0262   loss/wav_l1: 7.26e-03   loss/pesq: 1.9318
+Epoch 39 - Time: 38.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0156   loss/complex_mse: 0.0427   loss/consistency: 0.0425   loss/wav_l1: 0.0117   loss/pesq: 2.4901   lr: 1.97e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 9.90e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0259   loss/wav_l1: 7.59e-03   loss/pesq: 1.9229
+Epoch 40 - Time: 60.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0156   loss/complex_mse: 0.0426   loss/consistency: 0.0424   loss/wav_l1: 0.0118   loss/pesq: 2.4888   lr: 1.97e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 8.96e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0264   loss/wav_l1: 7.04e-03   loss/pesq: 1.9326   metrics/pesq: 2.7299   metrics/stoi: 0.9327   metrics/best_pesq: 2.7299   metrics/best_stoi: 0.9327
+Epoch 41 - Time: 37.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0156   loss/complex_mse: 0.0427   loss/consistency: 0.0424   loss/wav_l1: 0.0117   loss/pesq: 2.4892   lr: 1.97e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 8.93e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0265   loss/wav_l1: 7.32e-03   loss/pesq: 1.9217
+Epoch 42 - Time: 39.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0156   loss/complex_mse: 0.0426   loss/consistency: 0.0423   loss/wav_l1: 0.0116   loss/pesq: 2.4821   lr: 1.97e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 8.88e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 7.18e-03   loss/pesq: 1.9298
+Epoch 43 - Time: 38.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0155   loss/complex_mse: 0.0425   loss/consistency: 0.0422   loss/wav_l1: 0.0116   loss/pesq: 2.4777   lr: 1.97e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 9.44e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0262   loss/wav_l1: 7.23e-03   loss/pesq: 1.9268
+Epoch 44 - Time: 36.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0155   loss/complex_mse: 0.0426   loss/consistency: 0.0423   loss/wav_l1: 0.0116   loss/pesq: 2.4791   lr: 1.97e-03   scale: 524288.0000
+	Valid   loss/mag_mse: 9.48e-03   loss/complex_mse: 0.0261   loss/consistency: 0.0259   loss/wav_l1: 7.15e-03   loss/pesq: 1.9088
+Epoch 45 - Time: 40.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0154   loss/complex_mse: 0.0425   loss/consistency: 0.0422   loss/wav_l1: 0.0116   loss/pesq: 2.4724   lr: 1.97e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.03e-03   loss/complex_mse: 0.0270   loss/consistency: 0.0268   loss/wav_l1: 7.35e-03   loss/pesq: 1.9649
+Epoch 46 - Time: 39.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0155   loss/complex_mse: 0.0425   loss/consistency: 0.0422   loss/wav_l1: 0.0116   loss/pesq: 2.4778   lr: 1.96e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.38e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0263   loss/wav_l1: 7.20e-03   loss/pesq: 1.9357
+Epoch 47 - Time: 36.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0155   loss/complex_mse: 0.0426   loss/consistency: 0.0423   loss/wav_l1: 0.0116   loss/pesq: 2.4768   lr: 1.96e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.02e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0265   loss/wav_l1: 7.28e-03   loss/pesq: 1.9318
+Epoch 48 - Time: 40.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0154   loss/complex_mse: 0.0425   loss/consistency: 0.0422   loss/wav_l1: 0.0115   loss/pesq: 2.4670   lr: 1.96e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.72e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0270   loss/wav_l1: 8.06e-03   loss/pesq: 2.0150
+Epoch 49 - Time: 43.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0154   loss/complex_mse: 0.0425   loss/consistency: 0.0422   loss/wav_l1: 0.0115   loss/pesq: 2.4722   lr: 1.96e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.77e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0263   loss/wav_l1: 7.37e-03   loss/pesq: 1.9356
+Epoch 50 - Time: 42.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0153   loss/complex_mse: 0.0424   loss/consistency: 0.0421   loss/wav_l1: 0.0114   loss/pesq: 2.4622   lr: 1.96e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.58e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0263   loss/wav_l1: 7.33e-03   loss/pesq: 1.9411
+Epoch 51 - Time: 42.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0154   loss/complex_mse: 0.0425   loss/consistency: 0.0422   loss/wav_l1: 0.0115   loss/pesq: 2.4610   lr: 1.95e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.16e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0265   loss/wav_l1: 7.08e-03   loss/pesq: 1.9757
+Epoch 52 - Time: 38.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0154   loss/complex_mse: 0.0424   loss/consistency: 0.0421   loss/wav_l1: 0.0115   loss/pesq: 2.4654   lr: 1.95e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0144   loss/complex_mse: 0.0275   loss/consistency: 0.0283   loss/wav_l1: 0.0112   loss/pesq: 2.3386
+Epoch 53 - Time: 37.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0153   loss/complex_mse: 0.0424   loss/consistency: 0.0421   loss/wav_l1: 0.0114   loss/pesq: 2.4575   lr: 1.95e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0132   loss/complex_mse: 0.0271   loss/consistency: 0.0278   loss/wav_l1: 0.0106   loss/pesq: 2.2528
+Epoch 54 - Time: 37.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0153   loss/complex_mse: 0.0424   loss/consistency: 0.0421   loss/wav_l1: 0.0113   loss/pesq: 2.4611   lr: 1.95e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.84e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0267   loss/wav_l1: 7.94e-03   loss/pesq: 2.0039
+Epoch 55 - Time: 42.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0153   loss/complex_mse: 0.0424   loss/consistency: 0.0421   loss/wav_l1: 0.0114   loss/pesq: 2.4601   lr: 1.95e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0134   loss/complex_mse: 0.0275   loss/consistency: 0.0282   loss/wav_l1: 0.0109   loss/pesq: 2.3118
+Epoch 56 - Time: 34.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0153   loss/complex_mse: 0.0424   loss/consistency: 0.0420   loss/wav_l1: 0.0113   loss/pesq: 2.4526   lr: 1.94e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0106   loss/complex_mse: 0.0265   loss/consistency: 0.0265   loss/wav_l1: 7.99e-03   loss/pesq: 2.0409
+Epoch 57 - Time: 35.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0152   loss/complex_mse: 0.0424   loss/consistency: 0.0420   loss/wav_l1: 0.0113   loss/pesq: 2.4516   lr: 1.94e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0267   loss/consistency: 0.0267   loss/wav_l1: 8.01e-03   loss/pesq: 2.0219
+Epoch 58 - Time: 36.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0152   loss/complex_mse: 0.0423   loss/consistency: 0.0420   loss/wav_l1: 0.0113   loss/pesq: 2.4402   lr: 1.94e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0107   loss/complex_mse: 0.0268   loss/consistency: 0.0270   loss/wav_l1: 8.51e-03   loss/pesq: 2.1029
+Epoch 59 - Time: 37.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0152   loss/complex_mse: 0.0424   loss/consistency: 0.0420   loss/wav_l1: 0.0113   loss/pesq: 2.4451   lr: 1.94e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0107   loss/complex_mse: 0.0263   loss/consistency: 0.0263   loss/wav_l1: 8.00e-03   loss/pesq: 2.0211
+Epoch 60 - Time: 55.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0152   loss/complex_mse: 0.0423   loss/consistency: 0.0419   loss/wav_l1: 0.0112   loss/pesq: 2.4430   lr: 1.94e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0128   loss/complex_mse: 0.0265   loss/consistency: 0.0268   loss/wav_l1: 8.94e-03   loss/pesq: 2.0978   metrics/pesq: 2.7034   metrics/stoi: 0.9198   metrics/best_pesq: 2.7299   metrics/best_stoi: 0.9327
+Epoch 61 - Time: 35.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0152   loss/complex_mse: 0.0423   loss/consistency: 0.0419   loss/wav_l1: 0.0111   loss/pesq: 2.4378   lr: 1.93e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0113   loss/complex_mse: 0.0266   loss/consistency: 0.0268   loss/wav_l1: 8.88e-03   loss/pesq: 2.0965
+Epoch 62 - Time: 35.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0152   loss/complex_mse: 0.0424   loss/consistency: 0.0420   loss/wav_l1: 0.0112   loss/pesq: 2.4450   lr: 1.93e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0265   loss/consistency: 0.0265   loss/wav_l1: 8.12e-03   loss/pesq: 2.0092
+Epoch 63 - Time: 35.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0152   loss/complex_mse: 0.0423   loss/consistency: 0.0419   loss/wav_l1: 0.0111   loss/pesq: 2.4401   lr: 1.93e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0263   loss/consistency: 0.0262   loss/wav_l1: 7.66e-03   loss/pesq: 1.9857
+Epoch 64 - Time: 35.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0151   loss/complex_mse: 0.0423   loss/consistency: 0.0419   loss/wav_l1: 0.0111   loss/pesq: 2.4405   lr: 1.93e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0269   loss/consistency: 0.0269   loss/wav_l1: 8.62e-03   loss/pesq: 2.0785
+Epoch 65 - Time: 37.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0151   loss/complex_mse: 0.0423   loss/consistency: 0.0419   loss/wav_l1: 0.0112   loss/pesq: 2.4409   lr: 1.92e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0120   loss/complex_mse: 0.0274   loss/consistency: 0.0278   loss/wav_l1: 9.56e-03   loss/pesq: 2.1722
+Epoch 66 - Time: 38.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0150   loss/complex_mse: 0.0421   loss/consistency: 0.0418   loss/wav_l1: 0.0111   loss/pesq: 2.4332   lr: 1.92e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0112   loss/complex_mse: 0.0268   loss/consistency: 0.0269   loss/wav_l1: 8.97e-03   loss/pesq: 2.0843
+Epoch 67 - Time: 37.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0150   loss/complex_mse: 0.0421   loss/consistency: 0.0417   loss/wav_l1: 0.0110   loss/pesq: 2.4290   lr: 1.92e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0112   loss/complex_mse: 0.0267   loss/consistency: 0.0268   loss/wav_l1: 8.65e-03   loss/pesq: 2.0425
+Epoch 68 - Time: 37.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0150   loss/complex_mse: 0.0422   loss/consistency: 0.0418   loss/wav_l1: 0.0110   loss/pesq: 2.4270   lr: 1.92e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0106   loss/complex_mse: 0.0266   loss/consistency: 0.0265   loss/wav_l1: 8.17e-03   loss/pesq: 2.0294
+Epoch 69 - Time: 38.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0151   loss/complex_mse: 0.0422   loss/consistency: 0.0418   loss/wav_l1: 0.0111   loss/pesq: 2.4301   lr: 1.91e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0122   loss/complex_mse: 0.0264   loss/consistency: 0.0264   loss/wav_l1: 8.64e-03   loss/pesq: 2.0662
+Epoch 70 - Time: 38.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0149   loss/complex_mse: 0.0421   loss/consistency: 0.0417   loss/wav_l1: 0.0110   loss/pesq: 2.4234   lr: 1.91e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0116   loss/complex_mse: 0.0264   loss/consistency: 0.0264   loss/wav_l1: 8.48e-03   loss/pesq: 2.0388
+Epoch 71 - Time: 38.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0151   loss/complex_mse: 0.0422   loss/consistency: 0.0418   loss/wav_l1: 0.0110   loss/pesq: 2.4255   lr: 1.91e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0115   loss/complex_mse: 0.0263   loss/consistency: 0.0263   loss/wav_l1: 8.25e-03   loss/pesq: 2.0322
+Epoch 72 - Time: 38.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0149   loss/complex_mse: 0.0421   loss/consistency: 0.0417   loss/wav_l1: 0.0110   loss/pesq: 2.4161   lr: 1.91e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0112   loss/complex_mse: 0.0267   loss/consistency: 0.0266   loss/wav_l1: 8.58e-03   loss/pesq: 2.0776
+Epoch 73 - Time: 36.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0149   loss/complex_mse: 0.0421   loss/consistency: 0.0417   loss/wav_l1: 0.0109   loss/pesq: 2.4096   lr: 1.90e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0124   loss/complex_mse: 0.0264   loss/consistency: 0.0267   loss/wav_l1: 9.00e-03   loss/pesq: 2.1052
+Epoch 74 - Time: 37.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0148   loss/complex_mse: 0.0420   loss/consistency: 0.0416   loss/wav_l1: 0.0109   loss/pesq: 2.4088   lr: 1.90e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0150   loss/complex_mse: 0.0278   loss/consistency: 0.0282   loss/wav_l1: 0.0105   loss/pesq: 2.2688
+Epoch 75 - Time: 41.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0149   loss/complex_mse: 0.0421   loss/consistency: 0.0416   loss/wav_l1: 0.0109   loss/pesq: 2.4108   lr: 1.90e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0105   loss/complex_mse: 0.0264   loss/consistency: 0.0264   loss/wav_l1: 7.85e-03   loss/pesq: 1.9973
+Epoch 76 - Time: 35.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0149   loss/complex_mse: 0.0421   loss/consistency: 0.0417   loss/wav_l1: 0.0110   loss/pesq: 2.4180   lr: 1.90e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0123   loss/complex_mse: 0.0266   loss/consistency: 0.0267   loss/wav_l1: 9.89e-03   loss/pesq: 2.1655
+Epoch 77 - Time: 35.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0149   loss/complex_mse: 0.0421   loss/consistency: 0.0416   loss/wav_l1: 0.0109   loss/pesq: 2.4137   lr: 1.89e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0267   loss/consistency: 0.0267   loss/wav_l1: 8.21e-03   loss/pesq: 2.0611
+Epoch 78 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0148   loss/complex_mse: 0.0420   loss/consistency: 0.0415   loss/wav_l1: 0.0109   loss/pesq: 2.4053   lr: 1.89e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0118   loss/complex_mse: 0.0267   loss/consistency: 0.0268   loss/wav_l1: 9.02e-03   loss/pesq: 2.0829
+Epoch 79 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0148   loss/complex_mse: 0.0421   loss/consistency: 0.0416   loss/wav_l1: 0.0109   loss/pesq: 2.4103   lr: 1.89e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0125   loss/complex_mse: 0.0272   loss/consistency: 0.0275   loss/wav_l1: 0.0100   loss/pesq: 2.2379
+Epoch 80 - Time: 47.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0148   loss/complex_mse: 0.0420   loss/consistency: 0.0416   loss/wav_l1: 0.0108   loss/pesq: 2.4062   lr: 1.88e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0124   loss/complex_mse: 0.0267   loss/consistency: 0.0270   loss/wav_l1: 0.0101   loss/pesq: 2.2073   metrics/pesq: 2.6002   metrics/stoi: 0.9162   metrics/best_pesq: 2.7299   metrics/best_stoi: 0.9327
+Epoch 81 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0148   loss/complex_mse: 0.0421   loss/consistency: 0.0416   loss/wav_l1: 0.0109   loss/pesq: 2.4153   lr: 1.88e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0126   loss/complex_mse: 0.0272   loss/consistency: 0.0275   loss/wav_l1: 0.0105   loss/pesq: 2.2474
+Epoch 82 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0148   loss/complex_mse: 0.0420   loss/consistency: 0.0415   loss/wav_l1: 0.0109   loss/pesq: 2.4115   lr: 1.88e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0177   loss/complex_mse: 0.0286   loss/consistency: 0.0293   loss/wav_l1: 0.0125   loss/pesq: 2.4885
+Epoch 83 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0148   loss/complex_mse: 0.0421   loss/consistency: 0.0416   loss/wav_l1: 0.0109   loss/pesq: 2.4075   lr: 1.88e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0147   loss/complex_mse: 0.0277   loss/consistency: 0.0283   loss/wav_l1: 0.0123   loss/pesq: 2.3789
+Epoch 84 - Time: 35.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0148   loss/complex_mse: 0.0420   loss/consistency: 0.0415   loss/wav_l1: 0.0108   loss/pesq: 2.4050   lr: 1.87e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0166   loss/complex_mse: 0.0285   loss/consistency: 0.0291   loss/wav_l1: 0.0128   loss/pesq: 2.4433
+Epoch 85 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0149   loss/complex_mse: 0.0421   loss/consistency: 0.0417   loss/wav_l1: 0.0109   loss/pesq: 2.4147   lr: 1.87e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0205   loss/complex_mse: 0.0300   loss/consistency: 0.0309   loss/wav_l1: 0.0158   loss/pesq: 2.7677
+Epoch 86 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0150   loss/complex_mse: 0.0422   loss/consistency: 0.0417   loss/wav_l1: 0.0110   loss/pesq: 2.4208   lr: 1.87e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0161   loss/complex_mse: 0.0288   loss/consistency: 0.0297   loss/wav_l1: 0.0138   loss/pesq: 2.6022
+Epoch 87 - Time: 36.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0149   loss/complex_mse: 0.0421   loss/consistency: 0.0416   loss/wav_l1: 0.0109   loss/pesq: 2.4110   lr: 1.86e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0159   loss/complex_mse: 0.0280   loss/consistency: 0.0285   loss/wav_l1: 0.0122   loss/pesq: 2.4596
+Epoch 88 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0147   loss/complex_mse: 0.0420   loss/consistency: 0.0415   loss/wav_l1: 0.0108   loss/pesq: 2.4061   lr: 1.86e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0171   loss/complex_mse: 0.0287   loss/consistency: 0.0294   loss/wav_l1: 0.0127   loss/pesq: 2.5160
+Epoch 89 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0147   loss/complex_mse: 0.0420   loss/consistency: 0.0414   loss/wav_l1: 0.0108   loss/pesq: 2.3973   lr: 1.86e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0143   loss/complex_mse: 0.0276   loss/consistency: 0.0280   loss/wav_l1: 0.0117   loss/pesq: 2.3602
+Epoch 90 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0147   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0108   loss/pesq: 2.3993   lr: 1.85e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0140   loss/complex_mse: 0.0276   loss/consistency: 0.0281   loss/wav_l1: 0.0120   loss/pesq: 2.3650
+Epoch 91 - Time: 34.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0148   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0108   loss/pesq: 2.4012   lr: 1.85e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0148   loss/complex_mse: 0.0275   loss/consistency: 0.0283   loss/wav_l1: 0.0125   loss/pesq: 2.4291
+Epoch 92 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0147   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0107   loss/pesq: 2.3972   lr: 1.85e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0161   loss/complex_mse: 0.0281   loss/consistency: 0.0290   loss/wav_l1: 0.0130   loss/pesq: 2.5136
+Epoch 93 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0147   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0108   loss/pesq: 2.3964   lr: 1.84e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0143   loss/complex_mse: 0.0277   loss/consistency: 0.0282   loss/wav_l1: 0.0118   loss/pesq: 2.3842
+Epoch 94 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0147   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0108   loss/pesq: 2.4006   lr: 1.84e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0122   loss/complex_mse: 0.0273   loss/consistency: 0.0276   loss/wav_l1: 0.0106   loss/pesq: 2.2451
+Epoch 95 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0147   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0107   loss/pesq: 2.3986   lr: 1.84e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0122   loss/complex_mse: 0.0270   loss/consistency: 0.0273   loss/wav_l1: 0.0102   loss/pesq: 2.2229
+Epoch 96 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0420   loss/consistency: 0.0414   loss/wav_l1: 0.0108   loss/pesq: 2.3940   lr: 1.83e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0109   loss/complex_mse: 0.0268   loss/consistency: 0.0269   loss/wav_l1: 8.85e-03   loss/pesq: 2.0731
+Epoch 97 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0107   loss/pesq: 2.3903   lr: 1.83e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0142   loss/complex_mse: 0.0276   loss/consistency: 0.0283   loss/wav_l1: 0.0111   loss/pesq: 2.3510
+Epoch 98 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0107   loss/pesq: 2.3906   lr: 1.83e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0115   loss/complex_mse: 0.0277   loss/consistency: 0.0281   loss/wav_l1: 9.82e-03   loss/pesq: 2.2363
+Epoch 99 - Time: 40.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0419   loss/consistency: 0.0413   loss/wav_l1: 0.0107   loss/pesq: 2.3904   lr: 1.82e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0123   loss/complex_mse: 0.0273   loss/consistency: 0.0277   loss/wav_l1: 0.0103   loss/pesq: 2.2620
+Epoch 100 - Time: 46.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0418   loss/consistency: 0.0413   loss/wav_l1: 0.0108   loss/pesq: 2.3932   lr: 1.82e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0117   loss/complex_mse: 0.0268   loss/consistency: 0.0270   loss/wav_l1: 9.76e-03   loss/pesq: 2.1491   metrics/pesq: 2.6457   metrics/stoi: 0.9174   metrics/best_pesq: 2.7299   metrics/best_stoi: 0.9327
+Epoch 101 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0107   loss/pesq: 2.3924   lr: 1.82e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.91e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0265   loss/wav_l1: 8.04e-03   loss/pesq: 2.0007
+Epoch 102 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0419   loss/consistency: 0.0413   loss/wav_l1: 0.0107   loss/pesq: 2.3898   lr: 1.81e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0105   loss/complex_mse: 0.0262   loss/consistency: 0.0262   loss/wav_l1: 8.33e-03   loss/pesq: 2.0133
+Epoch 103 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0107   loss/pesq: 2.3880   lr: 1.81e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0121   loss/complex_mse: 0.0269   loss/consistency: 0.0273   loss/wav_l1: 0.0101   loss/pesq: 2.1900
+Epoch 104 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0418   loss/consistency: 0.0413   loss/wav_l1: 0.0107   loss/pesq: 2.3933   lr: 1.80e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0129   loss/complex_mse: 0.0279   loss/consistency: 0.0283   loss/wav_l1: 0.0105   loss/pesq: 2.3046
+Epoch 105 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0418   loss/consistency: 0.0413   loss/wav_l1: 0.0108   loss/pesq: 2.3873   lr: 1.80e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0145   loss/complex_mse: 0.0282   loss/consistency: 0.0289   loss/wav_l1: 0.0128   loss/pesq: 2.4931
+Epoch 106 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0418   loss/consistency: 0.0412   loss/wav_l1: 0.0107   loss/pesq: 2.3857   lr: 1.80e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0144   loss/complex_mse: 0.0282   loss/consistency: 0.0290   loss/wav_l1: 0.0117   loss/pesq: 2.4143
+Epoch 107 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0418   loss/consistency: 0.0413   loss/wav_l1: 0.0107   loss/pesq: 2.3905   lr: 1.79e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.42e-03   loss/complex_mse: 0.0270   loss/consistency: 0.0268   loss/wav_l1: 8.27e-03   loss/pesq: 2.0188
+Epoch 108 - Time: 37.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0147   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0108   loss/pesq: 2.4007   lr: 1.79e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0128   loss/complex_mse: 0.0268   loss/consistency: 0.0271   loss/wav_l1: 0.0101   loss/pesq: 2.2423
+Epoch 109 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0419   loss/consistency: 0.0414   loss/wav_l1: 0.0107   loss/pesq: 2.3931   lr: 1.78e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0108   loss/complex_mse: 0.0272   loss/consistency: 0.0273   loss/wav_l1: 9.04e-03   loss/pesq: 2.1061
+Epoch 110 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0418   loss/consistency: 0.0412   loss/wav_l1: 0.0106   loss/pesq: 2.3824   lr: 1.78e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0107   loss/complex_mse: 0.0271   loss/consistency: 0.0273   loss/wav_l1: 9.08e-03   loss/pesq: 2.1339
+Epoch 111 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0418   loss/consistency: 0.0413   loss/wav_l1: 0.0106   loss/pesq: 2.3851   lr: 1.78e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0131   loss/complex_mse: 0.0272   loss/consistency: 0.0275   loss/wav_l1: 0.0112   loss/pesq: 2.3271
+Epoch 112 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0418   loss/consistency: 0.0413   loss/wav_l1: 0.0107   loss/pesq: 2.3885   lr: 1.77e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0130   loss/complex_mse: 0.0271   loss/consistency: 0.0275   loss/wav_l1: 0.0102   loss/pesq: 2.2027
+Epoch 113 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0418   loss/consistency: 0.0412   loss/wav_l1: 0.0106   loss/pesq: 2.3849   lr: 1.77e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0126   loss/complex_mse: 0.0267   loss/consistency: 0.0269   loss/wav_l1: 9.14e-03   loss/pesq: 2.1576
+Epoch 114 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0418   loss/consistency: 0.0413   loss/wav_l1: 0.0107   loss/pesq: 2.3794   lr: 1.76e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0119   loss/complex_mse: 0.0265   loss/consistency: 0.0268   loss/wav_l1: 9.56e-03   loss/pesq: 2.1601
+Epoch 115 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0412   loss/wav_l1: 0.0106   loss/pesq: 2.3765   lr: 1.76e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0154   loss/complex_mse: 0.0267   loss/consistency: 0.0271   loss/wav_l1: 0.0114   loss/pesq: 2.3000
+Epoch 116 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0418   loss/consistency: 0.0412   loss/wav_l1: 0.0107   loss/pesq: 2.3863   lr: 1.76e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0108   loss/complex_mse: 0.0274   loss/consistency: 0.0276   loss/wav_l1: 8.83e-03   loss/pesq: 2.1175
+Epoch 117 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0106   loss/pesq: 2.3749   lr: 1.75e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0127   loss/complex_mse: 0.0280   loss/consistency: 0.0284   loss/wav_l1: 0.0107   loss/pesq: 2.2631
+Epoch 118 - Time: 36.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0416   loss/consistency: 0.0411   loss/wav_l1: 0.0106   loss/pesq: 2.3749   lr: 1.75e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0263   loss/consistency: 0.0264   loss/wav_l1: 8.34e-03   loss/pesq: 2.0270
+Epoch 119 - Time: 42.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0416   loss/consistency: 0.0411   loss/wav_l1: 0.0106   loss/pesq: 2.3734   lr: 1.74e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0112   loss/complex_mse: 0.0261   loss/consistency: 0.0261   loss/wav_l1: 8.09e-03   loss/pesq: 1.9942
+Epoch 120 - Time: 56.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0106   loss/pesq: 2.3810   lr: 1.74e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.74e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 8.24e-03   loss/pesq: 2.0024   metrics/pesq: 2.6933   metrics/stoi: 0.9279   metrics/best_pesq: 2.7299   metrics/best_stoi: 0.9327
+Epoch 121 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0418   loss/consistency: 0.0413   loss/wav_l1: 0.0108   loss/pesq: 2.3892   lr: 1.74e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0109   loss/complex_mse: 0.0268   loss/consistency: 0.0269   loss/wav_l1: 9.47e-03   loss/pesq: 2.0962
+Epoch 122 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0146   loss/complex_mse: 0.0418   loss/consistency: 0.0413   loss/wav_l1: 0.0107   loss/pesq: 2.3867   lr: 1.73e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0114   loss/complex_mse: 0.0271   loss/consistency: 0.0273   loss/wav_l1: 9.44e-03   loss/pesq: 2.1638
+Epoch 123 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0417   loss/consistency: 0.0412   loss/wav_l1: 0.0106   loss/pesq: 2.3765   lr: 1.73e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0116   loss/complex_mse: 0.0264   loss/consistency: 0.0265   loss/wav_l1: 8.88e-03   loss/pesq: 2.0673
+Epoch 124 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0416   loss/consistency: 0.0411   loss/wav_l1: 0.0105   loss/pesq: 2.3730   lr: 1.72e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0122   loss/complex_mse: 0.0269   loss/consistency: 0.0272   loss/wav_l1: 9.66e-03   loss/pesq: 2.1920
+Epoch 125 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0417   loss/consistency: 0.0412   loss/wav_l1: 0.0107   loss/pesq: 2.3850   lr: 1.72e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0269   loss/consistency: 0.0268   loss/wav_l1: 8.46e-03   loss/pesq: 2.0692
+Epoch 126 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0417   loss/consistency: 0.0412   loss/wav_l1: 0.0106   loss/pesq: 2.3814   lr: 1.71e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0116   loss/complex_mse: 0.0264   loss/consistency: 0.0265   loss/wav_l1: 9.11e-03   loss/pesq: 2.1009
+Epoch 127 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0105   loss/pesq: 2.3692   lr: 1.71e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0106   loss/complex_mse: 0.0268   loss/consistency: 0.0268   loss/wav_l1: 8.18e-03   loss/pesq: 2.0482
+Epoch 128 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0105   loss/pesq: 2.3672   lr: 1.71e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.91e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0267   loss/wav_l1: 8.18e-03   loss/pesq: 2.0264
+Epoch 129 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0106   loss/pesq: 2.3718   lr: 1.70e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.87e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0260   loss/wav_l1: 7.63e-03   loss/pesq: 1.9720
+Epoch 130 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0104   loss/pesq: 2.3652   lr: 1.70e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0127   loss/complex_mse: 0.0276   loss/consistency: 0.0278   loss/wav_l1: 0.0101   loss/pesq: 2.2236
+Epoch 131 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0105   loss/pesq: 2.3674   lr: 1.69e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0107   loss/complex_mse: 0.0263   loss/consistency: 0.0262   loss/wav_l1: 8.53e-03   loss/pesq: 2.0422
+Epoch 132 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0418   loss/consistency: 0.0412   loss/wav_l1: 0.0106   loss/pesq: 2.3796   lr: 1.69e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0115   loss/complex_mse: 0.0267   loss/consistency: 0.0269   loss/wav_l1: 9.23e-03   loss/pesq: 2.1160
+Epoch 133 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0145   loss/complex_mse: 0.0417   loss/consistency: 0.0412   loss/wav_l1: 0.0106   loss/pesq: 2.3786   lr: 1.68e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0265   loss/consistency: 0.0266   loss/wav_l1: 8.69e-03   loss/pesq: 2.0927
+Epoch 134 - Time: 36.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0105   loss/pesq: 2.3672   lr: 1.68e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0107   loss/complex_mse: 0.0268   loss/consistency: 0.0268   loss/wav_l1: 8.80e-03   loss/pesq: 2.0693
+Epoch 135 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3612   lr: 1.67e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0115   loss/complex_mse: 0.0266   loss/consistency: 0.0268   loss/wav_l1: 9.96e-03   loss/pesq: 2.1360
+Epoch 136 - Time: 39.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0415   loss/consistency: 0.0410   loss/wav_l1: 0.0104   loss/pesq: 2.3595   lr: 1.67e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0112   loss/complex_mse: 0.0265   loss/consistency: 0.0265   loss/wav_l1: 8.91e-03   loss/pesq: 2.0928
+Epoch 137 - Time: 34.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3629   lr: 1.66e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.73e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0270   loss/wav_l1: 8.59e-03   loss/pesq: 2.0504
+Epoch 138 - Time: 38.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0105   loss/pesq: 2.3708   lr: 1.66e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0130   loss/complex_mse: 0.0270   loss/consistency: 0.0272   loss/wav_l1: 0.0105   loss/pesq: 2.2275
+Epoch 139 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0106   loss/pesq: 2.3703   lr: 1.65e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0272   loss/consistency: 0.0273   loss/wav_l1: 8.85e-03   loss/pesq: 2.1018
+Epoch 140 - Time: 45.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0106   loss/pesq: 2.3666   lr: 1.65e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0100   loss/complex_mse: 0.0264   loss/consistency: 0.0263   loss/wav_l1: 7.86e-03   loss/pesq: 1.9850   metrics/pesq: 2.7220   metrics/stoi: 0.9301   metrics/best_pesq: 2.7299   metrics/best_stoi: 0.9327
+Epoch 141 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3663   lr: 1.64e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0119   loss/complex_mse: 0.0270   loss/consistency: 0.0272   loss/wav_l1: 9.51e-03   loss/pesq: 2.1432
+Epoch 142 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3645   lr: 1.64e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.13e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0265   loss/wav_l1: 7.72e-03   loss/pesq: 1.9807
+Epoch 143 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0417   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3603   lr: 1.63e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0272   loss/consistency: 0.0273   loss/wav_l1: 8.54e-03   loss/pesq: 2.1004
+Epoch 144 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0105   loss/pesq: 2.3665   lr: 1.63e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0261   loss/consistency: 0.0259   loss/wav_l1: 7.66e-03   loss/pesq: 1.9588
+Epoch 145 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0105   loss/pesq: 2.3668   lr: 1.63e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.79e-03   loss/complex_mse: 0.0271   loss/consistency: 0.0271   loss/wav_l1: 8.06e-03   loss/pesq: 2.0749
+Epoch 146 - Time: 33.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3616   lr: 1.62e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0100   loss/complex_mse: 0.0268   loss/consistency: 0.0267   loss/wav_l1: 8.33e-03   loss/pesq: 2.0335
+Epoch 147 - Time: 37.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3589   lr: 1.62e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0109   loss/complex_mse: 0.0264   loss/consistency: 0.0264   loss/wav_l1: 9.11e-03   loss/pesq: 2.0894
+Epoch 148 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0417   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3673   lr: 1.61e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0124   loss/complex_mse: 0.0265   loss/consistency: 0.0269   loss/wav_l1: 9.40e-03   loss/pesq: 2.1764
+Epoch 149 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0417   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3638   lr: 1.61e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0109   loss/complex_mse: 0.0271   loss/consistency: 0.0271   loss/wav_l1: 8.97e-03   loss/pesq: 2.1625
+Epoch 150 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3637   lr: 1.60e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0267   loss/consistency: 0.0266   loss/wav_l1: 8.25e-03   loss/pesq: 2.0570
+Epoch 151 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0104   loss/pesq: 2.3620   lr: 1.60e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.60e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0259   loss/wav_l1: 7.07e-03   loss/pesq: 1.9757
+Epoch 152 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0104   loss/pesq: 2.3624   lr: 1.59e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0100   loss/complex_mse: 0.0267   loss/consistency: 0.0267   loss/wav_l1: 8.45e-03   loss/pesq: 2.0498
+Epoch 153 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0104   loss/pesq: 2.3692   lr: 1.58e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0158   loss/complex_mse: 0.0279   loss/consistency: 0.0285   loss/wav_l1: 0.0113   loss/pesq: 2.3822
+Epoch 154 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3681   lr: 1.58e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0114   loss/complex_mse: 0.0267   loss/consistency: 0.0270   loss/wav_l1: 8.54e-03   loss/pesq: 2.1177
+Epoch 155 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3637   lr: 1.57e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0264   loss/consistency: 0.0264   loss/wav_l1: 7.79e-03   loss/pesq: 2.0045
+Epoch 156 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3608   lr: 1.57e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.26e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0265   loss/wav_l1: 7.55e-03   loss/pesq: 1.9851
+Epoch 157 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0144   loss/complex_mse: 0.0417   loss/consistency: 0.0410   loss/wav_l1: 0.0105   loss/pesq: 2.3699   lr: 1.56e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0141   loss/complex_mse: 0.0279   loss/consistency: 0.0284   loss/wav_l1: 0.0102   loss/pesq: 2.3370
+Epoch 158 - Time: 33.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0415   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3560   lr: 1.56e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.59e-03   loss/complex_mse: 0.0263   loss/consistency: 0.0261   loss/wav_l1: 7.14e-03   loss/pesq: 1.9416
+Epoch 159 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0104   loss/pesq: 2.3531   lr: 1.55e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0105   loss/complex_mse: 0.0264   loss/consistency: 0.0263   loss/wav_l1: 8.23e-03   loss/pesq: 2.0365
+Epoch 160 - Time: 45.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3484   lr: 1.55e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0258   loss/consistency: 0.0255   loss/wav_l1: 7.91e-03   loss/pesq: 1.9515   metrics/pesq: 2.7374   metrics/stoi: 0.9300   metrics/best_pesq: 2.7374   metrics/best_stoi: 0.9327
+Epoch 161 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3547   lr: 1.54e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.16e-03   loss/complex_mse: 0.0263   loss/consistency: 0.0260   loss/wav_l1: 7.50e-03   loss/pesq: 1.9318
+Epoch 162 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3541   lr: 1.54e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0116   loss/complex_mse: 0.0272   loss/consistency: 0.0275   loss/wav_l1: 9.66e-03   loss/pesq: 2.1729
+Epoch 163 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0105   loss/pesq: 2.3646   lr: 1.53e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.44e-03   loss/complex_mse: 0.0263   loss/consistency: 0.0261   loss/wav_l1: 7.43e-03   loss/pesq: 1.9720
+Epoch 164 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3524   lr: 1.53e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.36e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0263   loss/wav_l1: 7.74e-03   loss/pesq: 1.9865
+Epoch 165 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0104   loss/pesq: 2.3510   lr: 1.52e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0129   loss/complex_mse: 0.0280   loss/consistency: 0.0285   loss/wav_l1: 0.0107   loss/pesq: 2.3357
+Epoch 166 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3506   lr: 1.52e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0127   loss/complex_mse: 0.0282   loss/consistency: 0.0284   loss/wav_l1: 0.0101   loss/pesq: 2.2857
+Epoch 167 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0104   loss/pesq: 2.3531   lr: 1.51e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0176   loss/complex_mse: 0.0305   loss/consistency: 0.0314   loss/wav_l1: 0.0134   loss/pesq: 2.7073
+Epoch 168 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0143   loss/complex_mse: 0.0417   loss/consistency: 0.0411   loss/wav_l1: 0.0105   loss/pesq: 2.3716   lr: 1.51e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.57e-03   loss/complex_mse: 0.0261   loss/consistency: 0.0258   loss/wav_l1: 7.40e-03   loss/pesq: 1.9471
+Epoch 169 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3555   lr: 1.50e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0257   loss/consistency: 0.0255   loss/wav_l1: 7.74e-03   loss/pesq: 1.9809
+Epoch 170 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3567   lr: 1.49e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0119   loss/complex_mse: 0.0269   loss/consistency: 0.0270   loss/wav_l1: 9.42e-03   loss/pesq: 2.1856
+Epoch 171 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3559   lr: 1.49e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.98e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 7.97e-03   loss/pesq: 2.0151
+Epoch 172 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0103   loss/pesq: 2.3518   lr: 1.48e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.69e-03   loss/complex_mse: 0.0271   loss/consistency: 0.0270   loss/wav_l1: 8.05e-03   loss/pesq: 2.0739
+Epoch 173 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3531   lr: 1.48e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0269   loss/consistency: 0.0267   loss/wav_l1: 8.40e-03   loss/pesq: 2.0473
+Epoch 174 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3502   lr: 1.47e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0107   loss/complex_mse: 0.0283   loss/consistency: 0.0285   loss/wav_l1: 9.22e-03   loss/pesq: 2.2441
+Epoch 175 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0104   loss/pesq: 2.3464   lr: 1.47e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0105   loss/complex_mse: 0.0266   loss/consistency: 0.0265   loss/wav_l1: 8.62e-03   loss/pesq: 2.0741
+Epoch 176 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3607   lr: 1.46e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0124   loss/complex_mse: 0.0272   loss/consistency: 0.0273   loss/wav_l1: 9.44e-03   loss/pesq: 2.2198
+Epoch 177 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0104   loss/pesq: 2.3568   lr: 1.46e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.45e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0266   loss/wav_l1: 8.27e-03   loss/pesq: 2.0378
+Epoch 178 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3552   lr: 1.45e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.50e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0263   loss/wav_l1: 8.12e-03   loss/pesq: 2.0005
+Epoch 179 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3472   lr: 1.44e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0268   loss/consistency: 0.0267   loss/wav_l1: 8.23e-03   loss/pesq: 2.0545
+Epoch 180 - Time: 53.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3432   lr: 1.44e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.40e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0268   loss/wav_l1: 7.81e-03   loss/pesq: 2.0502   metrics/pesq: 2.6645   metrics/stoi: 0.9300   metrics/best_pesq: 2.7374   metrics/best_stoi: 0.9327
+Epoch 181 - Time: 36.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0409   loss/wav_l1: 0.0104   loss/pesq: 2.3536   lr: 1.43e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.77e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 8.10e-03   loss/pesq: 2.0427
+Epoch 182 - Time: 34.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3507   lr: 1.43e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.50e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0263   loss/wav_l1: 7.54e-03   loss/pesq: 1.9819
+Epoch 183 - Time: 42.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3480   lr: 1.42e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.13e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0263   loss/wav_l1: 7.52e-03   loss/pesq: 1.9762
+Epoch 184 - Time: 34.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3475   lr: 1.42e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.89e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0262   loss/wav_l1: 7.27e-03   loss/pesq: 1.9701
+Epoch 185 - Time: 38.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0408   loss/wav_l1: 0.0104   loss/pesq: 2.3509   lr: 1.41e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0105   loss/complex_mse: 0.0269   loss/consistency: 0.0270   loss/wav_l1: 8.87e-03   loss/pesq: 2.1031
+Epoch 186 - Time: 36.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3485   lr: 1.40e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.46e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0265   loss/wav_l1: 7.02e-03   loss/pesq: 1.9599
+Epoch 187 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0142   loss/complex_mse: 0.0416   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3518   lr: 1.40e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.67e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0262   loss/wav_l1: 7.70e-03   loss/pesq: 2.0083
+Epoch 188 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3484   lr: 1.39e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.54e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0263   loss/wav_l1: 7.90e-03   loss/pesq: 1.9860
+Epoch 189 - Time: 36.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3478   lr: 1.39e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 8.36e-03   loss/pesq: 2.0437
+Epoch 190 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0416   loss/consistency: 0.0408   loss/wav_l1: 0.0104   loss/pesq: 2.3540   lr: 1.38e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.48e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0260   loss/wav_l1: 7.57e-03   loss/pesq: 1.9696
+Epoch 191 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0408   loss/wav_l1: 0.0103   loss/pesq: 2.3454   lr: 1.38e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0270   loss/consistency: 0.0270   loss/wav_l1: 8.88e-03   loss/pesq: 2.1354
+Epoch 192 - Time: 37.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3438   lr: 1.37e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.36e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0262   loss/wav_l1: 7.32e-03   loss/pesq: 1.9676
+Epoch 193 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0141   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3394   lr: 1.36e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0108   loss/complex_mse: 0.0268   loss/consistency: 0.0266   loss/wav_l1: 8.95e-03   loss/pesq: 2.0972
+Epoch 194 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3366   lr: 1.36e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0137   loss/complex_mse: 0.0280   loss/consistency: 0.0284   loss/wav_l1: 0.0111   loss/pesq: 2.3872
+Epoch 195 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0103   loss/pesq: 2.3401   lr: 1.35e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0108   loss/complex_mse: 0.0268   loss/consistency: 0.0267   loss/wav_l1: 8.56e-03   loss/pesq: 2.1124
+Epoch 196 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3348   lr: 1.35e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0105   loss/complex_mse: 0.0263   loss/consistency: 0.0260   loss/wav_l1: 8.05e-03   loss/pesq: 2.0632
+Epoch 197 - Time: 34.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3357   lr: 1.34e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.43e-03   loss/complex_mse: 0.0259   loss/consistency: 0.0254   loss/wav_l1: 7.10e-03   loss/pesq: 1.9331
+Epoch 198 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0103   loss/pesq: 2.3414   lr: 1.33e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0105   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 8.06e-03   loss/pesq: 2.0527
+Epoch 199 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0407   loss/wav_l1: 0.0103   loss/pesq: 2.3402   lr: 1.33e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0260   loss/consistency: 0.0258   loss/wav_l1: 8.11e-03   loss/pesq: 2.0035
+Epoch 200 - Time: 47.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3337   lr: 1.32e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0109   loss/complex_mse: 0.0267   loss/consistency: 0.0269   loss/wav_l1: 9.04e-03   loss/pesq: 2.1616   metrics/pesq: 2.5260   metrics/stoi: 0.9165   metrics/best_pesq: 2.7374   metrics/best_stoi: 0.9327
+Epoch 201 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3401   lr: 1.32e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0114   loss/complex_mse: 0.0273   loss/consistency: 0.0272   loss/wav_l1: 8.73e-03   loss/pesq: 2.1706
+Epoch 202 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3365   lr: 1.31e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0270   loss/consistency: 0.0268   loss/wav_l1: 8.10e-03   loss/pesq: 2.0675
+Epoch 203 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3364   lr: 1.30e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.24e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0257   loss/wav_l1: 7.13e-03   loss/pesq: 1.9423
+Epoch 204 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3325   lr: 1.30e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.97e-03   loss/complex_mse: 0.0261   loss/consistency: 0.0257   loss/wav_l1: 6.95e-03   loss/pesq: 1.9001
+Epoch 205 - Time: 40.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3333   lr: 1.29e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.62e-03   loss/complex_mse: 0.0261   loss/consistency: 0.0258   loss/wav_l1: 7.32e-03   loss/pesq: 1.9431
+Epoch 206 - Time: 35.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3379   lr: 1.29e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.53e-03   loss/complex_mse: 0.0258   loss/consistency: 0.0254   loss/wav_l1: 6.91e-03   loss/pesq: 1.8985
+Epoch 207 - Time: 35.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3355   lr: 1.28e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.96e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0261   loss/wav_l1: 7.32e-03   loss/pesq: 1.9490
+Epoch 208 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3322   lr: 1.27e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.71e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0262   loss/wav_l1: 7.20e-03   loss/pesq: 1.9496
+Epoch 209 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3351   lr: 1.27e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.89e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0262   loss/wav_l1: 7.09e-03   loss/pesq: 1.9384
+Epoch 210 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3312   lr: 1.26e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.26e-03   loss/complex_mse: 0.0261   loss/consistency: 0.0257   loss/wav_l1: 6.95e-03   loss/pesq: 1.9251
+Epoch 211 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3344   lr: 1.26e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.68e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0258   loss/wav_l1: 6.70e-03   loss/pesq: 1.9183
+Epoch 212 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3321   lr: 1.25e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.71e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0261   loss/wav_l1: 6.86e-03   loss/pesq: 1.9352
+Epoch 213 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3333   lr: 1.24e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0271   loss/consistency: 0.0272   loss/wav_l1: 8.93e-03   loss/pesq: 2.1049
+Epoch 214 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3304   lr: 1.24e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0260   loss/consistency: 0.0258   loss/wav_l1: 7.63e-03   loss/pesq: 1.9953
+Epoch 215 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3308   lr: 1.23e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0113   loss/complex_mse: 0.0262   loss/consistency: 0.0263   loss/wav_l1: 8.44e-03   loss/pesq: 2.0766
+Epoch 216 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0413   loss/consistency: 0.0405   loss/wav_l1: 0.0102   loss/pesq: 2.3283   lr: 1.23e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.94e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0261   loss/wav_l1: 6.98e-03   loss/pesq: 1.9467
+Epoch 217 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0102   loss/pesq: 2.3356   lr: 1.22e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.74e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0262   loss/wav_l1: 6.96e-03   loss/pesq: 1.9673
+Epoch 218 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3325   lr: 1.21e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.61e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0257   loss/wav_l1: 6.64e-03   loss/pesq: 1.9101
+Epoch 219 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0101   loss/pesq: 2.3258   lr: 1.21e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0101   loss/complex_mse: 0.0264   loss/consistency: 0.0261   loss/wav_l1: 7.64e-03   loss/pesq: 2.0090
+Epoch 220 - Time: 46.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0415   loss/consistency: 0.0407   loss/wav_l1: 0.0103   loss/pesq: 2.3369   lr: 1.20e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.22e-03   loss/complex_mse: 0.0261   loss/consistency: 0.0256   loss/wav_l1: 6.90e-03   loss/pesq: 1.8768   metrics/pesq: 2.8057   metrics/stoi: 0.9331   metrics/best_pesq: 2.8057   metrics/best_stoi: 0.9331
+Epoch 221 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0413   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3286   lr: 1.19e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.25e-03   loss/complex_mse: 0.0261   loss/consistency: 0.0257   loss/wav_l1: 7.19e-03   loss/pesq: 1.9158
+Epoch 222 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3242   lr: 1.19e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.43e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0262   loss/wav_l1: 7.16e-03   loss/pesq: 1.9679
+Epoch 223 - Time: 37.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0140   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3315   lr: 1.18e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0273   loss/consistency: 0.0272   loss/wav_l1: 8.19e-03   loss/pesq: 2.0417
+Epoch 224 - Time: 34.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0405   loss/wav_l1: 0.0101   loss/pesq: 2.3199   lr: 1.18e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0261   loss/consistency: 0.0259   loss/wav_l1: 7.46e-03   loss/pesq: 1.9468
+Epoch 225 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0405   loss/wav_l1: 0.0101   loss/pesq: 2.3193   lr: 1.17e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0119   loss/complex_mse: 0.0270   loss/consistency: 0.0270   loss/wav_l1: 8.79e-03   loss/pesq: 2.1410
+Epoch 226 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0405   loss/wav_l1: 0.0101   loss/pesq: 2.3176   lr: 1.16e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.07e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0261   loss/wav_l1: 7.10e-03   loss/pesq: 1.9524
+Epoch 227 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3323   lr: 1.16e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.38e-03   loss/complex_mse: 0.0260   loss/consistency: 0.0257   loss/wav_l1: 6.92e-03   loss/pesq: 1.8979
+Epoch 228 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0413   loss/consistency: 0.0405   loss/wav_l1: 0.0101   loss/pesq: 2.3208   lr: 1.15e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.65e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0265   loss/wav_l1: 7.00e-03   loss/pesq: 1.9355
+Epoch 229 - Time: 35.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3314   lr: 1.15e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.75e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0261   loss/wav_l1: 6.65e-03   loss/pesq: 1.9338
+Epoch 230 - Time: 34.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3174   lr: 1.14e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.76e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0262   loss/wav_l1: 7.48e-03   loss/pesq: 1.9613
+Epoch 231 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3286   lr: 1.13e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.50e-03   loss/complex_mse: 0.0259   loss/consistency: 0.0256   loss/wav_l1: 6.83e-03   loss/pesq: 1.8977
+Epoch 232 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0405   loss/wav_l1: 0.0101   loss/pesq: 2.3158   lr: 1.13e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0100   loss/complex_mse: 0.0262   loss/consistency: 0.0258   loss/wav_l1: 7.03e-03   loss/pesq: 1.9407
+Epoch 233 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0139   loss/complex_mse: 0.0414   loss/consistency: 0.0406   loss/wav_l1: 0.0102   loss/pesq: 2.3313   lr: 1.12e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0269   loss/consistency: 0.0268   loss/wav_l1: 8.31e-03   loss/pesq: 2.0807
+Epoch 234 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3170   lr: 1.11e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.03e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0260   loss/wav_l1: 7.07e-03   loss/pesq: 1.9205
+Epoch 235 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0405   loss/wav_l1: 0.0101   loss/pesq: 2.3209   lr: 1.11e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0114   loss/complex_mse: 0.0275   loss/consistency: 0.0276   loss/wav_l1: 8.75e-03   loss/pesq: 2.1496
+Epoch 236 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0405   loss/wav_l1: 0.0101   loss/pesq: 2.3257   lr: 1.10e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.10e-03   loss/complex_mse: 0.0260   loss/consistency: 0.0256   loss/wav_l1: 6.68e-03   loss/pesq: 1.8906
+Epoch 237 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3164   lr: 1.09e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.43e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0263   loss/wav_l1: 7.43e-03   loss/pesq: 1.9889
+Epoch 238 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3156   lr: 1.09e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.92e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0259   loss/wav_l1: 6.82e-03   loss/pesq: 1.9239
+Epoch 239 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0102   loss/pesq: 2.3183   lr: 1.08e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0266   loss/consistency: 0.0265   loss/wav_l1: 7.80e-03   loss/pesq: 2.0355
+Epoch 240 - Time: 47.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0405   loss/wav_l1: 0.0101   loss/pesq: 2.3236   lr: 1.08e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.53e-03   loss/complex_mse: 0.0271   loss/consistency: 0.0267   loss/wav_l1: 6.97e-03   loss/pesq: 1.9222   metrics/pesq: 2.7851   metrics/stoi: 0.9352   metrics/best_pesq: 2.8057   metrics/best_stoi: 0.9352
+Epoch 241 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0101   loss/pesq: 2.3084   lr: 1.07e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.50e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0266   loss/wav_l1: 7.14e-03   loss/pesq: 1.9786
+Epoch 242 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0100   loss/pesq: 2.3074   lr: 1.06e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0263   loss/consistency: 0.0261   loss/wav_l1: 7.39e-03   loss/pesq: 1.9532
+Epoch 243 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0101   loss/pesq: 2.3050   lr: 1.06e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.80e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0266   loss/wav_l1: 7.46e-03   loss/pesq: 1.9914
+Epoch 244 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0100   loss/pesq: 2.3074   lr: 1.05e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.94e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0264   loss/wav_l1: 7.23e-03   loss/pesq: 1.9375
+Epoch 245 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3068   lr: 1.04e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0125   loss/complex_mse: 0.0275   loss/consistency: 0.0276   loss/wav_l1: 8.91e-03   loss/pesq: 2.1111
+Epoch 246 - Time: 37.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3069   lr: 1.04e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.25e-03   loss/complex_mse: 0.0263   loss/consistency: 0.0260   loss/wav_l1: 7.00e-03   loss/pesq: 1.9280
+Epoch 247 - Time: 36.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0100   loss/pesq: 2.3043   lr: 1.03e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.55e-03   loss/complex_mse: 0.0263   loss/consistency: 0.0260   loss/wav_l1: 7.36e-03   loss/pesq: 1.9491
+Epoch 248 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0100   loss/pesq: 2.3056   lr: 1.03e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0118   loss/complex_mse: 0.0271   loss/consistency: 0.0271   loss/wav_l1: 8.11e-03   loss/pesq: 2.0529
+Epoch 249 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3121   lr: 1.02e-03   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.90e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0259   loss/wav_l1: 6.80e-03   loss/pesq: 1.9323
+Epoch 250 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0101   loss/pesq: 2.3030   lr: 1.01e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0123   loss/complex_mse: 0.0278   loss/consistency: 0.0281   loss/wav_l1: 9.25e-03   loss/pesq: 2.2011
+Epoch 251 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3090   lr: 1.01e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.78e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0263   loss/wav_l1: 7.22e-03   loss/pesq: 1.9681
+Epoch 252 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3046   lr: 1.00e-03   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.98e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0260   loss/wav_l1: 6.92e-03   loss/pesq: 1.9259
+Epoch 253 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0100   loss/pesq: 2.2984   lr: 9.94e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0115   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 7.49e-03   loss/pesq: 1.9865
+Epoch 254 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3068   lr: 9.88e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 8.79e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0263   loss/wav_l1: 6.78e-03   loss/pesq: 1.9273
+Epoch 255 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0100   loss/pesq: 2.3065   lr: 9.82e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0265   loss/consistency: 0.0265   loss/wav_l1: 7.48e-03   loss/pesq: 1.9874
+Epoch 256 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0100   loss/pesq: 2.3026   lr: 9.75e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0120   loss/complex_mse: 0.0275   loss/consistency: 0.0276   loss/wav_l1: 8.68e-03   loss/pesq: 2.1070
+Epoch 257 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0136   loss/complex_mse: 0.0411   loss/consistency: 0.0402   loss/wav_l1: 9.99e-03   loss/pesq: 2.3000   lr: 9.69e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.53e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 7.54e-03   loss/pesq: 1.9449
+Epoch 258 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0136   loss/complex_mse: 0.0412   loss/consistency: 0.0402   loss/wav_l1: 9.95e-03   loss/pesq: 2.2967   lr: 9.63e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0264   loss/consistency: 0.0262   loss/wav_l1: 7.54e-03   loss/pesq: 1.9598
+Epoch 259 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0136   loss/complex_mse: 0.0411   loss/consistency: 0.0402   loss/wav_l1: 9.98e-03   loss/pesq: 2.2963   lr: 9.56e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0109   loss/complex_mse: 0.0267   loss/consistency: 0.0266   loss/wav_l1: 8.05e-03   loss/pesq: 2.0119
+Epoch 260 - Time: 48.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0137   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0101   loss/pesq: 2.3049   lr: 9.50e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.84e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0263   loss/wav_l1: 7.24e-03   loss/pesq: 1.9512   metrics/pesq: 2.7766   metrics/stoi: 0.9317   metrics/best_pesq: 2.8057   metrics/best_stoi: 0.9352
+Epoch 261 - Time: 37.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0136   loss/complex_mse: 0.0412   loss/consistency: 0.0403   loss/wav_l1: 0.0100   loss/pesq: 2.3011   lr: 9.44e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.96e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0265   loss/wav_l1: 7.17e-03   loss/pesq: 1.9699
+Epoch 262 - Time: 42.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0136   loss/complex_mse: 0.0411   loss/consistency: 0.0402   loss/wav_l1: 9.99e-03   loss/pesq: 2.2973   lr: 9.37e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0127   loss/complex_mse: 0.0280   loss/consistency: 0.0282   loss/wav_l1: 9.98e-03   loss/pesq: 2.2676
+Epoch 263 - Time: 42.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0136   loss/complex_mse: 0.0411   loss/consistency: 0.0402   loss/wav_l1: 9.96e-03   loss/pesq: 2.3002   lr: 9.31e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.00e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0263   loss/wav_l1: 7.10e-03   loss/pesq: 1.9283
+Epoch 264 - Time: 43.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0138   loss/complex_mse: 0.0413   loss/consistency: 0.0404   loss/wav_l1: 0.0101   loss/pesq: 2.3141   lr: 9.25e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.51e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0265   loss/wav_l1: 7.46e-03   loss/pesq: 1.9947
+Epoch 265 - Time: 42.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0136   loss/complex_mse: 0.0412   loss/consistency: 0.0402   loss/wav_l1: 9.98e-03   loss/pesq: 2.2966   lr: 9.19e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0117   loss/complex_mse: 0.0272   loss/consistency: 0.0271   loss/wav_l1: 8.40e-03   loss/pesq: 2.0587
+Epoch 266 - Time: 34.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0402   loss/wav_l1: 9.96e-03   loss/pesq: 2.2945   lr: 9.12e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0271   loss/consistency: 0.0269   loss/wav_l1: 8.05e-03   loss/pesq: 2.0133
+Epoch 267 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0402   loss/wav_l1: 9.92e-03   loss/pesq: 2.2898   lr: 9.06e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.96e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0264   loss/wav_l1: 7.51e-03   loss/pesq: 1.9716
+Epoch 268 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0136   loss/complex_mse: 0.0411   loss/consistency: 0.0402   loss/wav_l1: 9.98e-03   loss/pesq: 2.2934   lr: 9.00e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0100   loss/complex_mse: 0.0261   loss/consistency: 0.0257   loss/wav_l1: 6.89e-03   loss/pesq: 1.9262
+Epoch 269 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0402   loss/wav_l1: 9.97e-03   loss/pesq: 2.2900   lr: 8.94e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0106   loss/complex_mse: 0.0269   loss/consistency: 0.0268   loss/wav_l1: 7.96e-03   loss/pesq: 2.0215
+Epoch 270 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0410   loss/consistency: 0.0401   loss/wav_l1: 9.92e-03   loss/pesq: 2.2893   lr: 8.87e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.27e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0264   loss/wav_l1: 7.08e-03   loss/pesq: 1.9349
+Epoch 271 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0401   loss/wav_l1: 9.91e-03   loss/pesq: 2.2855   lr: 8.81e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0267   loss/consistency: 0.0267   loss/wav_l1: 8.31e-03   loss/pesq: 2.0246
+Epoch 272 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0401   loss/wav_l1: 9.91e-03   loss/pesq: 2.2856   lr: 8.75e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 9.48e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0261   loss/wav_l1: 7.09e-03   loss/pesq: 1.9325
+Epoch 273 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0136   loss/complex_mse: 0.0411   loss/consistency: 0.0402   loss/wav_l1: 9.96e-03   loss/pesq: 2.2917   lr: 8.68e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0106   loss/complex_mse: 0.0277   loss/consistency: 0.0278   loss/wav_l1: 8.77e-03   loss/pesq: 2.1160
+Epoch 274 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0401   loss/wav_l1: 9.92e-03   loss/pesq: 2.2813   lr: 8.62e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0272   loss/consistency: 0.0271   loss/wav_l1: 8.27e-03   loss/pesq: 2.0457
+Epoch 275 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0401   loss/wav_l1: 9.93e-03   loss/pesq: 2.2842   lr: 8.56e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0272   loss/consistency: 0.0271   loss/wav_l1: 8.27e-03   loss/pesq: 2.0375
+Epoch 276 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0401   loss/wav_l1: 9.92e-03   loss/pesq: 2.2872   lr: 8.50e-04   scale: 1048576.0000
+	Valid   loss/mag_mse: 0.0100   loss/complex_mse: 0.0271   loss/consistency: 0.0269   loss/wav_l1: 7.75e-03   loss/pesq: 2.0155
+Epoch 277 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0410   loss/consistency: 0.0401   loss/wav_l1: 9.90e-03   loss/pesq: 2.2844   lr: 8.44e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0115   loss/complex_mse: 0.0273   loss/consistency: 0.0273   loss/wav_l1: 8.35e-03   loss/pesq: 2.0547
+Epoch 278 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0401   loss/wav_l1: 9.93e-03   loss/pesq: 2.2845   lr: 8.37e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.52e-03   loss/complex_mse: 0.0270   loss/consistency: 0.0266   loss/wav_l1: 7.35e-03   loss/pesq: 1.9453
+Epoch 279 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0410   loss/consistency: 0.0401   loss/wav_l1: 9.90e-03   loss/pesq: 2.2824   lr: 8.31e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0107   loss/complex_mse: 0.0270   loss/consistency: 0.0268   loss/wav_l1: 8.09e-03   loss/pesq: 2.0375
+Epoch 280 - Time: 46.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0410   loss/consistency: 0.0401   loss/wav_l1: 9.90e-03   loss/pesq: 2.2830   lr: 8.25e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0118   loss/complex_mse: 0.0273   loss/consistency: 0.0271   loss/wav_l1: 8.10e-03   loss/pesq: 2.0589   metrics/pesq: 2.7743   metrics/stoi: 0.9260   metrics/best_pesq: 2.8057   metrics/best_stoi: 0.9352
+Epoch 281 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0135   loss/complex_mse: 0.0411   loss/consistency: 0.0401   loss/wav_l1: 9.92e-03   loss/pesq: 2.2817   lr: 8.19e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.31e-03   loss/complex_mse: 0.0261   loss/consistency: 0.0257   loss/wav_l1: 6.87e-03   loss/pesq: 1.9083
+Epoch 282 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0400   loss/wav_l1: 9.86e-03   loss/pesq: 2.2796   lr: 8.12e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0100   loss/complex_mse: 0.0265   loss/consistency: 0.0263   loss/wav_l1: 7.50e-03   loss/pesq: 1.9876
+Epoch 283 - Time: 39.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0400   loss/wav_l1: 9.84e-03   loss/pesq: 2.2742   lr: 8.06e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0115   loss/complex_mse: 0.0273   loss/consistency: 0.0273   loss/wav_l1: 8.67e-03   loss/pesq: 2.1424
+Epoch 284 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0400   loss/wav_l1: 9.88e-03   loss/pesq: 2.2776   lr: 8.00e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0265   loss/consistency: 0.0263   loss/wav_l1: 7.63e-03   loss/pesq: 1.9851
+Epoch 285 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0411   loss/consistency: 0.0401   loss/wav_l1: 9.93e-03   loss/pesq: 2.2815   lr: 7.94e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0112   loss/complex_mse: 0.0270   loss/consistency: 0.0269   loss/wav_l1: 8.30e-03   loss/pesq: 2.0741
+Epoch 286 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0400   loss/wav_l1: 9.86e-03   loss/pesq: 2.2779   lr: 7.88e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0147   loss/complex_mse: 0.0283   loss/consistency: 0.0285   loss/wav_l1: 9.75e-03   loss/pesq: 2.2806
+Epoch 287 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0400   loss/wav_l1: 9.83e-03   loss/pesq: 2.2724   lr: 7.82e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0273   loss/consistency: 0.0273   loss/wav_l1: 8.47e-03   loss/pesq: 2.0914
+Epoch 288 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0400   loss/wav_l1: 9.87e-03   loss/pesq: 2.2766   lr: 7.75e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.47e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0261   loss/wav_l1: 7.25e-03   loss/pesq: 1.9519
+Epoch 289 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0400   loss/wav_l1: 9.85e-03   loss/pesq: 2.2775   lr: 7.69e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0267   loss/consistency: 0.0265   loss/wav_l1: 7.64e-03   loss/pesq: 2.0224
+Epoch 290 - Time: 41.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0400   loss/wav_l1: 9.86e-03   loss/pesq: 2.2747   lr: 7.63e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0270   loss/consistency: 0.0269   loss/wav_l1: 8.34e-03   loss/pesq: 2.0938
+Epoch 291 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0409   loss/consistency: 0.0399   loss/wav_l1: 9.82e-03   loss/pesq: 2.2702   lr: 7.57e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0114   loss/complex_mse: 0.0273   loss/consistency: 0.0271   loss/wav_l1: 8.08e-03   loss/pesq: 2.0556
+Epoch 292 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0400   loss/wav_l1: 9.86e-03   loss/pesq: 2.2749   lr: 7.51e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0264   loss/consistency: 0.0261   loss/wav_l1: 7.20e-03   loss/pesq: 1.9701
+Epoch 293 - Time: 34.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0409   loss/consistency: 0.0399   loss/wav_l1: 9.82e-03   loss/pesq: 2.2714   lr: 7.45e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0274   loss/consistency: 0.0272   loss/wav_l1: 7.91e-03   loss/pesq: 2.0747
+Epoch 294 - Time: 35.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0134   loss/complex_mse: 0.0410   loss/consistency: 0.0399   loss/wav_l1: 9.84e-03   loss/pesq: 2.2692   lr: 7.39e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0271   loss/consistency: 0.0269   loss/wav_l1: 7.84e-03   loss/pesq: 2.0427
+Epoch 295 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0410   loss/consistency: 0.0399   loss/wav_l1: 9.83e-03   loss/pesq: 2.2700   lr: 7.33e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0123   loss/complex_mse: 0.0280   loss/consistency: 0.0281   loss/wav_l1: 9.24e-03   loss/pesq: 2.1711
+Epoch 296 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0409   loss/consistency: 0.0399   loss/wav_l1: 9.78e-03   loss/pesq: 2.2624   lr: 7.27e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 7.65e-03   loss/pesq: 2.0071
+Epoch 297 - Time: 38.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0409   loss/consistency: 0.0399   loss/wav_l1: 9.80e-03   loss/pesq: 2.2695   lr: 7.21e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0272   loss/consistency: 0.0271   loss/wav_l1: 8.21e-03   loss/pesq: 2.0644
+Epoch 298 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0409   loss/consistency: 0.0398   loss/wav_l1: 9.79e-03   loss/pesq: 2.2628   lr: 7.15e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0121   loss/complex_mse: 0.0283   loss/consistency: 0.0283   loss/wav_l1: 9.01e-03   loss/pesq: 2.1849
+Epoch 299 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0410   loss/consistency: 0.0399   loss/wav_l1: 9.80e-03   loss/pesq: 2.2670   lr: 7.08e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0105   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 7.65e-03   loss/pesq: 2.0071
+Epoch 300 - Time: 46.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0409   loss/consistency: 0.0399   loss/wav_l1: 9.78e-03   loss/pesq: 2.2667   lr: 7.02e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0113   loss/complex_mse: 0.0275   loss/consistency: 0.0273   loss/wav_l1: 8.36e-03   loss/pesq: 2.1040   metrics/pesq: 2.7220   metrics/stoi: 0.9249   metrics/best_pesq: 2.8057   metrics/best_stoi: 0.9352
+Epoch 301 - Time: 41.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0409   loss/consistency: 0.0399   loss/wav_l1: 9.78e-03   loss/pesq: 2.2643   lr: 6.96e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.00e-03   loss/complex_mse: 0.0261   loss/consistency: 0.0257   loss/wav_l1: 6.84e-03   loss/pesq: 1.8852
+Epoch 302 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0409   loss/consistency: 0.0399   loss/wav_l1: 9.80e-03   loss/pesq: 2.2644   lr: 6.90e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0275   loss/consistency: 0.0275   loss/wav_l1: 8.46e-03   loss/pesq: 2.1298
+Epoch 303 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0409   loss/consistency: 0.0398   loss/wav_l1: 9.76e-03   loss/pesq: 2.2588   lr: 6.84e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0272   loss/consistency: 0.0271   loss/wav_l1: 8.23e-03   loss/pesq: 2.0829
+Epoch 304 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0408   loss/consistency: 0.0398   loss/wav_l1: 9.76e-03   loss/pesq: 2.2567   lr: 6.78e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0276   loss/consistency: 0.0276   loss/wav_l1: 8.27e-03   loss/pesq: 2.1014
+Epoch 305 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.73e-03   loss/pesq: 2.2558   lr: 6.73e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0115   loss/complex_mse: 0.0273   loss/consistency: 0.0274   loss/wav_l1: 8.57e-03   loss/pesq: 2.1435
+Epoch 306 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0409   loss/consistency: 0.0398   loss/wav_l1: 9.76e-03   loss/pesq: 2.2603   lr: 6.67e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0139   loss/complex_mse: 0.0287   loss/consistency: 0.0289   loss/wav_l1: 9.79e-03   loss/pesq: 2.3004
+Epoch 307 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0133   loss/complex_mse: 0.0409   loss/consistency: 0.0398   loss/wav_l1: 9.79e-03   loss/pesq: 2.2629   lr: 6.61e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0138   loss/complex_mse: 0.0292   loss/consistency: 0.0295   loss/wav_l1: 9.82e-03   loss/pesq: 2.3074
+Epoch 308 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0408   loss/consistency: 0.0398   loss/wav_l1: 9.73e-03   loss/pesq: 2.2578   lr: 6.55e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0129   loss/complex_mse: 0.0277   loss/consistency: 0.0278   loss/wav_l1: 8.89e-03   loss/pesq: 2.2016
+Epoch 309 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0409   loss/consistency: 0.0398   loss/wav_l1: 9.75e-03   loss/pesq: 2.2609   lr: 6.49e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0132   loss/complex_mse: 0.0289   loss/consistency: 0.0291   loss/wav_l1: 9.51e-03   loss/pesq: 2.2651
+Epoch 310 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0408   loss/consistency: 0.0398   loss/wav_l1: 9.77e-03   loss/pesq: 2.2577   lr: 6.43e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0157   loss/complex_mse: 0.0294   loss/consistency: 0.0298   loss/wav_l1: 0.0103   loss/pesq: 2.3922
+Epoch 311 - Time: 35.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0408   loss/consistency: 0.0398   loss/wav_l1: 9.76e-03   loss/pesq: 2.2550   lr: 6.37e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0101   loss/complex_mse: 0.0265   loss/consistency: 0.0262   loss/wav_l1: 7.47e-03   loss/pesq: 1.9876
+Epoch 312 - Time: 40.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0408   loss/consistency: 0.0398   loss/wav_l1: 9.75e-03   loss/pesq: 2.2527   lr: 6.31e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0128   loss/complex_mse: 0.0283   loss/consistency: 0.0285   loss/wav_l1: 9.34e-03   loss/pesq: 2.2458
+Epoch 313 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0408   loss/consistency: 0.0398   loss/wav_l1: 9.75e-03   loss/pesq: 2.2539   lr: 6.25e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0149   loss/complex_mse: 0.0294   loss/consistency: 0.0297   loss/wav_l1: 0.0101   loss/pesq: 2.3567
+Epoch 314 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.72e-03   loss/pesq: 2.2511   lr: 6.19e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0129   loss/complex_mse: 0.0278   loss/consistency: 0.0279   loss/wav_l1: 8.82e-03   loss/pesq: 2.1593
+Epoch 315 - Time: 34.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.71e-03   loss/pesq: 2.2496   lr: 6.14e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0128   loss/complex_mse: 0.0284   loss/consistency: 0.0285   loss/wav_l1: 8.96e-03   loss/pesq: 2.2017
+Epoch 316 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.71e-03   loss/pesq: 2.2495   lr: 6.08e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0137   loss/complex_mse: 0.0288   loss/consistency: 0.0290   loss/wav_l1: 9.59e-03   loss/pesq: 2.2719
+Epoch 317 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0398   loss/wav_l1: 9.72e-03   loss/pesq: 2.2491   lr: 6.02e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0125   loss/complex_mse: 0.0284   loss/consistency: 0.0284   loss/wav_l1: 9.00e-03   loss/pesq: 2.1852
+Epoch 318 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.73e-03   loss/pesq: 2.2535   lr: 5.96e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0149   loss/complex_mse: 0.0289   loss/consistency: 0.0291   loss/wav_l1: 9.63e-03   loss/pesq: 2.2965
+Epoch 319 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.71e-03   loss/pesq: 2.2489   lr: 5.91e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0132   loss/complex_mse: 0.0284   loss/consistency: 0.0287   loss/wav_l1: 9.45e-03   loss/pesq: 2.2610
+Epoch 320 - Time: 47.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0132   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.72e-03   loss/pesq: 2.2478   lr: 5.85e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0118   loss/complex_mse: 0.0278   loss/consistency: 0.0278   loss/wav_l1: 8.49e-03   loss/pesq: 2.1289   metrics/pesq: 2.6969   metrics/stoi: 0.9187   metrics/best_pesq: 2.8057   metrics/best_stoi: 0.9352
+Epoch 321 - Time: 35.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.70e-03   loss/pesq: 2.2474   lr: 5.79e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0113   loss/complex_mse: 0.0275   loss/consistency: 0.0273   loss/wav_l1: 7.89e-03   loss/pesq: 2.0764
+Epoch 322 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.72e-03   loss/pesq: 2.2478   lr: 5.73e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0125   loss/complex_mse: 0.0278   loss/consistency: 0.0277   loss/wav_l1: 8.54e-03   loss/pesq: 2.1332
+Epoch 323 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.68e-03   loss/pesq: 2.2421   lr: 5.68e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0136   loss/complex_mse: 0.0280   loss/consistency: 0.0282   loss/wav_l1: 9.37e-03   loss/pesq: 2.2411
+Epoch 324 - Time: 37.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.69e-03   loss/pesq: 2.2440   lr: 5.62e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0130   loss/complex_mse: 0.0284   loss/consistency: 0.0285   loss/wav_l1: 9.22e-03   loss/pesq: 2.2203
+Epoch 325 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0408   loss/consistency: 0.0397   loss/wav_l1: 9.67e-03   loss/pesq: 2.2451   lr: 5.56e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0143   loss/complex_mse: 0.0290   loss/consistency: 0.0293   loss/wav_l1: 9.87e-03   loss/pesq: 2.3200
+Epoch 326 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.66e-03   loss/pesq: 2.2419   lr: 5.51e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0123   loss/complex_mse: 0.0282   loss/consistency: 0.0283   loss/wav_l1: 8.74e-03   loss/pesq: 2.1495
+Epoch 327 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.67e-03   loss/pesq: 2.2440   lr: 5.45e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0118   loss/complex_mse: 0.0281   loss/consistency: 0.0280   loss/wav_l1: 8.76e-03   loss/pesq: 2.1453
+Epoch 328 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.68e-03   loss/pesq: 2.2417   lr: 5.39e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0161   loss/complex_mse: 0.0298   loss/consistency: 0.0304   loss/wav_l1: 0.0113   loss/pesq: 2.4742
+Epoch 329 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.68e-03   loss/pesq: 2.2426   lr: 5.34e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0112   loss/complex_mse: 0.0274   loss/consistency: 0.0274   loss/wav_l1: 8.24e-03   loss/pesq: 2.0996
+Epoch 330 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.68e-03   loss/pesq: 2.2386   lr: 5.28e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0136   loss/complex_mse: 0.0281   loss/consistency: 0.0283   loss/wav_l1: 9.70e-03   loss/pesq: 2.2469
+Epoch 331 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.67e-03   loss/pesq: 2.2412   lr: 5.23e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0102   loss/complex_mse: 0.0265   loss/consistency: 0.0263   loss/wav_l1: 7.69e-03   loss/pesq: 2.0123
+Epoch 332 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.66e-03   loss/pesq: 2.2387   lr: 5.17e-04   scale: 4194304.0000
+	Valid   loss/mag_mse: 0.0130   loss/complex_mse: 0.0280   loss/consistency: 0.0282   loss/wav_l1: 9.33e-03   loss/pesq: 2.2291
+Epoch 333 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.66e-03   loss/pesq: 2.2381   lr: 5.12e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0154   loss/complex_mse: 0.0291   loss/consistency: 0.0295   loss/wav_l1: 0.0104   loss/pesq: 2.3667
+Epoch 334 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.67e-03   loss/pesq: 2.2333   lr: 5.06e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0116   loss/complex_mse: 0.0271   loss/consistency: 0.0271   loss/wav_l1: 8.44e-03   loss/pesq: 2.1064
+Epoch 335 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0395   loss/wav_l1: 9.63e-03   loss/pesq: 2.2339   lr: 5.01e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0144   loss/complex_mse: 0.0286   loss/consistency: 0.0288   loss/wav_l1: 9.63e-03   loss/pesq: 2.3049
+Epoch 336 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0131   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.66e-03   loss/pesq: 2.2393   lr: 4.95e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0137   loss/complex_mse: 0.0287   loss/consistency: 0.0290   loss/wav_l1: 9.78e-03   loss/pesq: 2.3073
+Epoch 337 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0396   loss/wav_l1: 9.64e-03   loss/pesq: 2.2355   lr: 4.90e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0122   loss/complex_mse: 0.0279   loss/consistency: 0.0279   loss/wav_l1: 8.66e-03   loss/pesq: 2.1827
+Epoch 338 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0395   loss/wav_l1: 9.63e-03   loss/pesq: 2.2299   lr: 4.84e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0271   loss/consistency: 0.0268   loss/wav_l1: 7.69e-03   loss/pesq: 2.0281
+Epoch 339 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0395   loss/wav_l1: 9.61e-03   loss/pesq: 2.2273   lr: 4.79e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0268   loss/consistency: 0.0266   loss/wav_l1: 7.92e-03   loss/pesq: 2.0523
+Epoch 340 - Time: 45.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0407   loss/consistency: 0.0395   loss/wav_l1: 9.62e-03   loss/pesq: 2.2312   lr: 4.74e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0122   loss/complex_mse: 0.0277   loss/consistency: 0.0278   loss/wav_l1: 8.83e-03   loss/pesq: 2.1797   metrics/pesq: 2.6408   metrics/stoi: 0.9115   metrics/best_pesq: 2.8057   metrics/best_stoi: 0.9352
+Epoch 341 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0395   loss/wav_l1: 9.63e-03   loss/pesq: 2.2320   lr: 4.68e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0147   loss/complex_mse: 0.0286   loss/consistency: 0.0288   loss/wav_l1: 9.64e-03   loss/pesq: 2.2674
+Epoch 342 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0395   loss/wav_l1: 9.63e-03   loss/pesq: 2.2317   lr: 4.63e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0121   loss/complex_mse: 0.0275   loss/consistency: 0.0275   loss/wav_l1: 8.78e-03   loss/pesq: 2.1654
+Epoch 343 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0395   loss/wav_l1: 9.62e-03   loss/pesq: 2.2293   lr: 4.58e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0134   loss/complex_mse: 0.0281   loss/consistency: 0.0283   loss/wav_l1: 9.43e-03   loss/pesq: 2.2425
+Epoch 344 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0407   loss/consistency: 0.0395   loss/wav_l1: 9.61e-03   loss/pesq: 2.2293   lr: 4.52e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0124   loss/complex_mse: 0.0278   loss/consistency: 0.0279   loss/wav_l1: 8.79e-03   loss/pesq: 2.1433
+Epoch 345 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0395   loss/wav_l1: 9.59e-03   loss/pesq: 2.2285   lr: 4.47e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0117   loss/complex_mse: 0.0275   loss/consistency: 0.0275   loss/wav_l1: 8.66e-03   loss/pesq: 2.1452
+Epoch 346 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0130   loss/complex_mse: 0.0407   loss/consistency: 0.0395   loss/wav_l1: 9.62e-03   loss/pesq: 2.2300   lr: 4.42e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0268   loss/consistency: 0.0266   loss/wav_l1: 7.75e-03   loss/pesq: 2.0098
+Epoch 347 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0395   loss/wav_l1: 9.59e-03   loss/pesq: 2.2256   lr: 4.37e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.69e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0262   loss/wav_l1: 7.16e-03   loss/pesq: 1.9478
+Epoch 348 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0395   loss/wav_l1: 9.60e-03   loss/pesq: 2.2278   lr: 4.32e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0131   loss/complex_mse: 0.0278   loss/consistency: 0.0281   loss/wav_l1: 9.25e-03   loss/pesq: 2.2096
+Epoch 349 - Time: 35.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0395   loss/wav_l1: 9.59e-03   loss/pesq: 2.2278   lr: 4.26e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0108   loss/complex_mse: 0.0270   loss/consistency: 0.0269   loss/wav_l1: 8.26e-03   loss/pesq: 2.0657
+Epoch 350 - Time: 42.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0395   loss/wav_l1: 9.58e-03   loss/pesq: 2.2213   lr: 4.21e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0270   loss/consistency: 0.0269   loss/wav_l1: 8.21e-03   loss/pesq: 2.0673
+Epoch 351 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.58e-03   loss/pesq: 2.2207   lr: 4.16e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0112   loss/complex_mse: 0.0273   loss/consistency: 0.0272   loss/wav_l1: 8.52e-03   loss/pesq: 2.0759
+Epoch 352 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.57e-03   loss/pesq: 2.2218   lr: 4.11e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0115   loss/complex_mse: 0.0275   loss/consistency: 0.0274   loss/wav_l1: 8.27e-03   loss/pesq: 2.0884
+Epoch 353 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.58e-03   loss/pesq: 2.2218   lr: 4.06e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0127   loss/complex_mse: 0.0276   loss/consistency: 0.0277   loss/wav_l1: 9.06e-03   loss/pesq: 2.1824
+Epoch 354 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.56e-03   loss/pesq: 2.2177   lr: 4.01e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0132   loss/complex_mse: 0.0277   loss/consistency: 0.0279   loss/wav_l1: 9.21e-03   loss/pesq: 2.1950
+Epoch 355 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0129   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.58e-03   loss/pesq: 2.2187   lr: 3.96e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0111   loss/complex_mse: 0.0268   loss/consistency: 0.0267   loss/wav_l1: 8.18e-03   loss/pesq: 2.0632
+Epoch 356 - Time: 40.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.56e-03   loss/pesq: 2.2190   lr: 3.91e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0119   loss/complex_mse: 0.0269   loss/consistency: 0.0269   loss/wav_l1: 8.41e-03   loss/pesq: 2.0991
+Epoch 357 - Time: 38.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.55e-03   loss/pesq: 2.2158   lr: 3.86e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0112   loss/complex_mse: 0.0269   loss/consistency: 0.0268   loss/wav_l1: 8.08e-03   loss/pesq: 2.0491
+Epoch 358 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0405   loss/consistency: 0.0394   loss/wav_l1: 9.54e-03   loss/pesq: 2.2168   lr: 3.81e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0100   loss/complex_mse: 0.0267   loss/consistency: 0.0263   loss/wav_l1: 7.43e-03   loss/pesq: 1.9694
+Epoch 359 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0405   loss/consistency: 0.0394   loss/wav_l1: 9.55e-03   loss/pesq: 2.2178   lr: 3.76e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0120   loss/complex_mse: 0.0273   loss/consistency: 0.0272   loss/wav_l1: 8.68e-03   loss/pesq: 2.1272
+Epoch 360 - Time: 45.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.54e-03   loss/pesq: 2.2187   lr: 3.71e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0106   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 7.96e-03   loss/pesq: 2.0039   metrics/pesq: 2.8015   metrics/stoi: 0.9271   metrics/best_pesq: 2.8057   metrics/best_stoi: 0.9352
+Epoch 361 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0405   loss/consistency: 0.0394   loss/wav_l1: 9.53e-03   loss/pesq: 2.2157   lr: 3.66e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0105   loss/complex_mse: 0.0266   loss/consistency: 0.0264   loss/wav_l1: 8.04e-03   loss/pesq: 2.0055
+Epoch 362 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.54e-03   loss/pesq: 2.2163   lr: 3.61e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0114   loss/complex_mse: 0.0271   loss/consistency: 0.0270   loss/wav_l1: 8.32e-03   loss/pesq: 2.0764
+Epoch 363 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.53e-03   loss/pesq: 2.2122   lr: 3.56e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0120   loss/complex_mse: 0.0268   loss/consistency: 0.0268   loss/wav_l1: 8.38e-03   loss/pesq: 2.0886
+Epoch 364 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0406   loss/consistency: 0.0394   loss/wav_l1: 9.53e-03   loss/pesq: 2.2130   lr: 3.52e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0107   loss/complex_mse: 0.0264   loss/consistency: 0.0262   loss/wav_l1: 7.82e-03   loss/pesq: 1.9840
+Epoch 365 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0405   loss/consistency: 0.0394   loss/wav_l1: 9.52e-03   loss/pesq: 2.2124   lr: 3.47e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0109   loss/complex_mse: 0.0268   loss/consistency: 0.0266   loss/wav_l1: 7.95e-03   loss/pesq: 1.9972
+Epoch 366 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.51e-03   loss/pesq: 2.2134   lr: 3.42e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.74e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0258   loss/wav_l1: 7.28e-03   loss/pesq: 1.9113
+Epoch 367 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0405   loss/consistency: 0.0394   loss/wav_l1: 9.54e-03   loss/pesq: 2.2159   lr: 3.37e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0119   loss/complex_mse: 0.0272   loss/consistency: 0.0271   loss/wav_l1: 8.51e-03   loss/pesq: 2.0875
+Epoch 368 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.54e-03   loss/pesq: 2.2140   lr: 3.33e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0126   loss/complex_mse: 0.0274   loss/consistency: 0.0274   loss/wav_l1: 8.82e-03   loss/pesq: 2.1330
+Epoch 369 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.51e-03   loss/pesq: 2.2106   lr: 3.28e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0117   loss/complex_mse: 0.0274   loss/consistency: 0.0274   loss/wav_l1: 8.60e-03   loss/pesq: 2.1053
+Epoch 370 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.51e-03   loss/pesq: 2.2106   lr: 3.23e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0110   loss/complex_mse: 0.0269   loss/consistency: 0.0267   loss/wav_l1: 8.33e-03   loss/pesq: 2.0395
+Epoch 371 - Time: 39.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0128   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.52e-03   loss/pesq: 2.2141   lr: 3.19e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.27e-03   loss/complex_mse: 0.0263   loss/consistency: 0.0260   loss/wav_l1: 7.22e-03   loss/pesq: 1.9172
+Epoch 372 - Time: 40.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.51e-03   loss/pesq: 2.2109   lr: 3.14e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0104   loss/complex_mse: 0.0269   loss/consistency: 0.0266   loss/wav_l1: 7.79e-03   loss/pesq: 1.9979
+Epoch 373 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.50e-03   loss/pesq: 2.2074   lr: 3.10e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 0.0103   loss/complex_mse: 0.0266   loss/consistency: 0.0263   loss/wav_l1: 7.57e-03   loss/pesq: 1.9550
+Epoch 374 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.50e-03   loss/pesq: 2.2088   lr: 3.05e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.77e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0263   loss/wav_l1: 7.34e-03   loss/pesq: 1.9263
+Epoch 375 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.50e-03   loss/pesq: 2.2063   lr: 3.00e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.03e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0259   loss/wav_l1: 7.01e-03   loss/pesq: 1.8780
+Epoch 376 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.50e-03   loss/pesq: 2.2097   lr: 2.96e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.55e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0263   loss/wav_l1: 7.32e-03   loss/pesq: 1.9376
+Epoch 377 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.51e-03   loss/pesq: 2.2112   lr: 2.92e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.17e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0258   loss/wav_l1: 7.00e-03   loss/pesq: 1.8708
+Epoch 378 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.52e-03   loss/pesq: 2.2120   lr: 2.87e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.35e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0258   loss/wav_l1: 7.30e-03   loss/pesq: 1.9063
+Epoch 379 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.53e-03   loss/pesq: 2.2107   lr: 2.83e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.20e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0261   loss/wav_l1: 7.04e-03   loss/pesq: 1.9162
+Epoch 380 - Time: 45.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.53e-03   loss/pesq: 2.2119   lr: 2.78e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.98e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0261   loss/wav_l1: 7.11e-03   loss/pesq: 1.9015   metrics/pesq: 2.8286   metrics/stoi: 0.9339   metrics/best_pesq: 2.8286   metrics/best_stoi: 0.9352
+Epoch 381 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.52e-03   loss/pesq: 2.2138   lr: 2.74e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.84e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0264   loss/wav_l1: 7.77e-03   loss/pesq: 1.9772
+Epoch 382 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0392   loss/wav_l1: 9.50e-03   loss/pesq: 2.2072   lr: 2.70e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.11e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0261   loss/wav_l1: 7.18e-03   loss/pesq: 1.9175
+Epoch 383 - Time: 34.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0404   loss/consistency: 0.0392   loss/wav_l1: 9.49e-03   loss/pesq: 2.2040   lr: 2.65e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.31e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0262   loss/wav_l1: 7.29e-03   loss/pesq: 1.9274
+Epoch 384 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.50e-03   loss/pesq: 2.2119   lr: 2.61e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.74e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0264   loss/wav_l1: 7.58e-03   loss/pesq: 1.9608
+Epoch 385 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0404   loss/consistency: 0.0392   loss/wav_l1: 9.50e-03   loss/pesq: 2.2076   lr: 2.57e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.91e-03   loss/complex_mse: 0.0263   loss/consistency: 0.0258   loss/wav_l1: 7.08e-03   loss/pesq: 1.8918
+Epoch 386 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0393   loss/wav_l1: 9.50e-03   loss/pesq: 2.2092   lr: 2.53e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.87e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0257   loss/wav_l1: 6.95e-03   loss/pesq: 1.8831
+Epoch 387 - Time: 36.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0404   loss/consistency: 0.0392   loss/wav_l1: 9.49e-03   loss/pesq: 2.2062   lr: 2.49e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.38e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0261   loss/wav_l1: 7.28e-03   loss/pesq: 1.9243
+Epoch 388 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0405   loss/consistency: 0.0392   loss/wav_l1: 9.50e-03   loss/pesq: 2.2032   lr: 2.44e-04   scale: 4194304.0000
+	Valid   loss/mag_mse: 9.42e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0262   loss/wav_l1: 7.38e-03   loss/pesq: 1.9579
+Epoch 389 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.47e-03   loss/pesq: 2.1986   lr: 2.40e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.94e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0260   loss/wav_l1: 7.02e-03   loss/pesq: 1.9119
+Epoch 390 - Time: 43.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0127   loss/complex_mse: 0.0404   loss/consistency: 0.0392   loss/wav_l1: 9.48e-03   loss/pesq: 2.2041   lr: 2.36e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.78e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0259   loss/wav_l1: 6.87e-03   loss/pesq: 1.8986
+Epoch 391 - Time: 35.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.46e-03   loss/pesq: 2.1978   lr: 2.32e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.63e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0264   loss/wav_l1: 7.31e-03   loss/pesq: 1.9646
+Epoch 392 - Time: 41.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0392   loss/wav_l1: 9.46e-03   loss/pesq: 2.2030   lr: 2.28e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.72e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0259   loss/wav_l1: 6.87e-03   loss/pesq: 1.8930
+Epoch 393 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0392   loss/wav_l1: 9.46e-03   loss/pesq: 2.1959   lr: 2.24e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.76e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0259   loss/wav_l1: 6.87e-03   loss/pesq: 1.8881
+Epoch 394 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0392   loss/wav_l1: 9.45e-03   loss/pesq: 2.1973   lr: 2.20e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.09e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0260   loss/wav_l1: 7.11e-03   loss/pesq: 1.9180
+Epoch 395 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0392   loss/wav_l1: 9.46e-03   loss/pesq: 2.1959   lr: 2.16e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.85e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0259   loss/wav_l1: 6.94e-03   loss/pesq: 1.9015
+Epoch 396 - Time: 40.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.46e-03   loss/pesq: 2.1961   lr: 2.12e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.59e-03   loss/complex_mse: 0.0262   loss/consistency: 0.0257   loss/wav_l1: 6.83e-03   loss/pesq: 1.8727
+Epoch 397 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.44e-03   loss/pesq: 2.1949   lr: 2.09e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.69e-03   loss/complex_mse: 0.0263   loss/consistency: 0.0258   loss/wav_l1: 6.89e-03   loss/pesq: 1.8809
+Epoch 398 - Time: 42.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.44e-03   loss/pesq: 2.1980   lr: 2.05e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.47e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0259   loss/wav_l1: 6.77e-03   loss/pesq: 1.8739
+Epoch 399 - Time: 34.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.42e-03   loss/pesq: 2.1939   lr: 2.01e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.93e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0258   loss/wav_l1: 6.97e-03   loss/pesq: 1.9027
+Epoch 400 - Time: 48.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.43e-03   loss/pesq: 2.1949   lr: 1.97e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.06e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 7.08e-03   loss/pesq: 1.9045   metrics/pesq: 2.8323   metrics/stoi: 0.9333   metrics/best_pesq: 2.8323   metrics/best_stoi: 0.9352
+Epoch 401 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.42e-03   loss/pesq: 2.1903   lr: 1.93e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.94e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 7.00e-03   loss/pesq: 1.9036
+Epoch 402 - Time: 39.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0403   loss/consistency: 0.0391   loss/wav_l1: 9.42e-03   loss/pesq: 2.1922   lr: 1.90e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.84e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0258   loss/wav_l1: 6.94e-03   loss/pesq: 1.8959
+Epoch 403 - Time: 39.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.40e-03   loss/pesq: 2.1896   lr: 1.86e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.75e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0263   loss/wav_l1: 7.36e-03   loss/pesq: 1.9593
+Epoch 404 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0126   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.41e-03   loss/pesq: 2.1896   lr: 1.82e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.17e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0262   loss/wav_l1: 7.13e-03   loss/pesq: 1.9324
+Epoch 405 - Time: 36.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.41e-03   loss/pesq: 2.1895   lr: 1.79e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.10e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 7.08e-03   loss/pesq: 1.9291
+Epoch 406 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0391   loss/wav_l1: 9.41e-03   loss/pesq: 2.1878   lr: 1.75e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.39e-03   loss/complex_mse: 0.0264   loss/consistency: 0.0258   loss/wav_l1: 6.73e-03   loss/pesq: 1.8699
+Epoch 407 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0391   loss/wav_l1: 9.40e-03   loss/pesq: 2.1896   lr: 1.72e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.85e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0261   loss/wav_l1: 7.03e-03   loss/pesq: 1.9036
+Epoch 408 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.40e-03   loss/pesq: 2.1876   lr: 1.68e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.07e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0263   loss/wav_l1: 7.18e-03   loss/pesq: 1.9517
+Epoch 409 - Time: 36.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0391   loss/wav_l1: 9.38e-03   loss/pesq: 2.1879   lr: 1.65e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.84e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.93e-03   loss/pesq: 1.9142
+Epoch 410 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0391   loss/wav_l1: 9.40e-03   loss/pesq: 2.1859   lr: 1.61e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.63e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0261   loss/wav_l1: 6.98e-03   loss/pesq: 1.9018
+Epoch 411 - Time: 35.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0391   loss/wav_l1: 9.39e-03   loss/pesq: 2.1880   lr: 1.58e-04   scale: 4194304.0000
+	Valid   loss/mag_mse: 8.95e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0262   loss/wav_l1: 7.20e-03   loss/pesq: 1.9282
+Epoch 412 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0391   loss/wav_l1: 9.40e-03   loss/pesq: 2.1843   lr: 1.54e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.88e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0260   loss/wav_l1: 7.09e-03   loss/pesq: 1.9108
+Epoch 413 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.38e-03   loss/pesq: 2.1849   lr: 1.51e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.19e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0262   loss/wav_l1: 7.16e-03   loss/pesq: 1.9286
+Epoch 414 - Time: 34.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.39e-03   loss/pesq: 2.1851   lr: 1.48e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.71e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.99e-03   loss/pesq: 1.9189
+Epoch 415 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.39e-03   loss/pesq: 2.1850   lr: 1.45e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 9.14e-03   loss/complex_mse: 0.0270   loss/consistency: 0.0265   loss/wav_l1: 7.25e-03   loss/pesq: 1.9430
+Epoch 416 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0404   loss/consistency: 0.0391   loss/wav_l1: 9.39e-03   loss/pesq: 2.1866   lr: 1.41e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.75e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.99e-03   loss/pesq: 1.9031
+Epoch 417 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0391   loss/wav_l1: 9.38e-03   loss/pesq: 2.1840   lr: 1.38e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.89e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0264   loss/wav_l1: 7.16e-03   loss/pesq: 1.9464
+Epoch 418 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.39e-03   loss/pesq: 2.1801   lr: 1.35e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.75e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0262   loss/wav_l1: 7.09e-03   loss/pesq: 1.9191
+Epoch 419 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.37e-03   loss/pesq: 2.1839   lr: 1.32e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.58e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.99e-03   loss/pesq: 1.9048
+Epoch 420 - Time: 45.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.36e-03   loss/pesq: 2.1858   lr: 1.29e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.74e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0264   loss/wav_l1: 7.07e-03   loss/pesq: 1.9210   metrics/pesq: 2.8134   metrics/stoi: 0.9319   metrics/best_pesq: 2.8323   metrics/best_stoi: 0.9352
+Epoch 421 - Time: 33.9 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.35e-03   loss/pesq: 2.1813   lr: 1.26e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.62e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.96e-03   loss/pesq: 1.9009
+Epoch 422 - Time: 37.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.36e-03   loss/pesq: 2.1793   lr: 1.23e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.71e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0263   loss/wav_l1: 7.05e-03   loss/pesq: 1.9170
+Epoch 423 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.36e-03   loss/pesq: 2.1803   lr: 1.20e-04   scale: 4194304.0000
+	Valid   loss/mag_mse: 8.57e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.95e-03   loss/pesq: 1.9041
+Epoch 424 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0125   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.36e-03   loss/pesq: 2.1819   lr: 1.17e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.19e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0261   loss/wav_l1: 6.81e-03   loss/pesq: 1.8771
+Epoch 425 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.34e-03   loss/pesq: 2.1796   lr: 1.14e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.50e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0263   loss/wav_l1: 6.93e-03   loss/pesq: 1.8994
+Epoch 426 - Time: 34.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.35e-03   loss/pesq: 2.1792   lr: 1.11e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.72e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0263   loss/wav_l1: 7.04e-03   loss/pesq: 1.9170
+Epoch 427 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.34e-03   loss/pesq: 2.1798   lr: 1.08e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.68e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0262   loss/wav_l1: 7.02e-03   loss/pesq: 1.9042
+Epoch 428 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.34e-03   loss/pesq: 2.1788   lr: 1.05e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.37e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0262   loss/wav_l1: 6.89e-03   loss/pesq: 1.8880
+Epoch 429 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.34e-03   loss/pesq: 2.1800   lr: 1.02e-04   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.41e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0261   loss/wav_l1: 6.87e-03   loss/pesq: 1.8908
+Epoch 430 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.35e-03   loss/pesq: 2.1731   lr: 9.96e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.22e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0262   loss/wav_l1: 6.80e-03   loss/pesq: 1.8858
+Epoch 431 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.33e-03   loss/pesq: 2.1766   lr: 9.69e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.14e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.81e-03   loss/pesq: 1.8808
+Epoch 432 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.33e-03   loss/pesq: 2.1769   lr: 9.42e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.20e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0262   loss/wav_l1: 6.80e-03   loss/pesq: 1.8919
+Epoch 433 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.33e-03   loss/pesq: 2.1754   lr: 9.16e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.07e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.76e-03   loss/pesq: 1.8684
+Epoch 434 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0403   loss/consistency: 0.0390   loss/wav_l1: 9.33e-03   loss/pesq: 2.1740   lr: 8.90e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.52e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0264   loss/wav_l1: 6.95e-03   loss/pesq: 1.9057
+Epoch 435 - Time: 36.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.34e-03   loss/pesq: 2.1779   lr: 8.64e-05   scale: 4194304.0000
+	Valid   loss/mag_mse: 8.10e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.76e-03   loss/pesq: 1.8806
+Epoch 436 - Time: 42.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.33e-03   loss/pesq: 2.1733   lr: 8.39e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.11e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0259   loss/wav_l1: 6.73e-03   loss/pesq: 1.8685
+Epoch 437 - Time: 37.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.31e-03   loss/pesq: 2.1742   lr: 8.14e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.08e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0262   loss/wav_l1: 6.75e-03   loss/pesq: 1.8711
+Epoch 438 - Time: 36.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.31e-03   loss/pesq: 2.1746   lr: 7.89e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.00e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.70e-03   loss/pesq: 1.8702
+Epoch 439 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.33e-03   loss/pesq: 2.1741   lr: 7.65e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.34e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0263   loss/wav_l1: 6.91e-03   loss/pesq: 1.8960
+Epoch 440 - Time: 50.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.33e-03   loss/pesq: 2.1737   lr: 7.41e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.85e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0260   loss/wav_l1: 6.57e-03   loss/pesq: 1.8568   metrics/pesq: 2.8472   metrics/stoi: 0.9369   metrics/best_pesq: 2.8472   metrics/best_stoi: 0.9369
+Epoch 441 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.32e-03   loss/pesq: 2.1732   lr: 7.17e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.06e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0262   loss/wav_l1: 6.78e-03   loss/pesq: 1.8698
+Epoch 442 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.31e-03   loss/pesq: 2.1722   lr: 6.94e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.95e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0262   loss/wav_l1: 6.70e-03   loss/pesq: 1.8629
+Epoch 443 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.29e-03   loss/pesq: 2.1709   lr: 6.72e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.10e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0262   loss/wav_l1: 6.77e-03   loss/pesq: 1.8688
+Epoch 444 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.31e-03   loss/pesq: 2.1730   lr: 6.49e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 8.03e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.65e-03   loss/pesq: 1.8565
+Epoch 445 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.31e-03   loss/pesq: 2.1665   lr: 6.27e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.78e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0261   loss/wav_l1: 6.60e-03   loss/pesq: 1.8454
+Epoch 446 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.31e-03   loss/pesq: 2.1690   lr: 6.06e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.89e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.58e-03   loss/pesq: 1.8446
+Epoch 447 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.30e-03   loss/pesq: 2.1725   lr: 5.84e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.72e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0260   loss/wav_l1: 6.58e-03   loss/pesq: 1.8492
+Epoch 448 - Time: 34.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.29e-03   loss/pesq: 2.1732   lr: 5.63e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.86e-03   loss/complex_mse: 0.0269   loss/consistency: 0.0262   loss/wav_l1: 6.66e-03   loss/pesq: 1.8562
+Epoch 449 - Time: 35.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.30e-03   loss/pesq: 2.1685   lr: 5.43e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.74e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0261   loss/wav_l1: 6.53e-03   loss/pesq: 1.8367
+Epoch 450 - Time: 34.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.30e-03   loss/pesq: 2.1710   lr: 5.23e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.69e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.57e-03   loss/pesq: 1.8294
+Epoch 451 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.29e-03   loss/pesq: 2.1694   lr: 5.03e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.98e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0261   loss/wav_l1: 6.72e-03   loss/pesq: 1.8592
+Epoch 452 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0124   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.30e-03   loss/pesq: 2.1696   lr: 4.84e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.72e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.58e-03   loss/pesq: 1.8385
+Epoch 453 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.30e-03   loss/pesq: 2.1713   lr: 4.65e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.68e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.54e-03   loss/pesq: 1.8404
+Epoch 454 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0389   loss/wav_l1: 9.29e-03   loss/pesq: 2.1689   lr: 4.46e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.70e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.57e-03   loss/pesq: 1.8414
+Epoch 455 - Time: 38.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.28e-03   loss/pesq: 2.1656   lr: 4.28e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.70e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.60e-03   loss/pesq: 1.8343
+Epoch 456 - Time: 35.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.28e-03   loss/pesq: 2.1649   lr: 4.10e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.87e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.70e-03   loss/pesq: 1.8468
+Epoch 457 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.27e-03   loss/pesq: 2.1632   lr: 3.93e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.84e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.70e-03   loss/pesq: 1.8481
+Epoch 458 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.28e-03   loss/pesq: 2.1668   lr: 3.75e-05   scale: 4194304.0000
+	Valid   loss/mag_mse: 7.93e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0261   loss/wav_l1: 6.66e-03   loss/pesq: 1.8427
+Epoch 459 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.28e-03   loss/pesq: 2.1639   lr: 3.59e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.78e-03   loss/complex_mse: 0.0268   loss/consistency: 0.0261   loss/wav_l1: 6.66e-03   loss/pesq: 1.8353
+Epoch 460 - Time: 47.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.29e-03   loss/pesq: 2.1641   lr: 3.42e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.72e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.64e-03   loss/pesq: 1.8353   metrics/pesq: 2.8673   metrics/stoi: 0.9369   metrics/best_pesq: 2.8673   metrics/best_stoi: 0.9369
+Epoch 461 - Time: 33.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.27e-03   loss/pesq: 2.1654   lr: 3.27e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.82e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.67e-03   loss/pesq: 1.8449
+Epoch 462 - Time: 34.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.29e-03   loss/pesq: 2.1647   lr: 3.11e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.63e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.55e-03   loss/pesq: 1.8134
+Epoch 463 - Time: 35.8 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.28e-03   loss/pesq: 2.1657   lr: 2.96e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.70e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0261   loss/wav_l1: 6.61e-03   loss/pesq: 1.8407
+Epoch 464 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.27e-03   loss/pesq: 2.1653   lr: 2.81e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.47e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.54e-03   loss/pesq: 1.8123
+Epoch 465 - Time: 39.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.29e-03   loss/pesq: 2.1675   lr: 2.67e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.59e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.55e-03   loss/pesq: 1.8294
+Epoch 466 - Time: 42.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.27e-03   loss/pesq: 2.1641   lr: 2.53e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.57e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.57e-03   loss/pesq: 1.8208
+Epoch 467 - Time: 40.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.28e-03   loss/pesq: 2.1629   lr: 2.39e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.82e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0260   loss/wav_l1: 6.65e-03   loss/pesq: 1.8432
+Epoch 468 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1615   lr: 2.26e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.68e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.56e-03   loss/pesq: 1.8116
+Epoch 469 - Time: 34.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.27e-03   loss/pesq: 2.1640   lr: 2.13e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.72e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.56e-03   loss/pesq: 1.8255
+Epoch 470 - Time: 40.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1593   lr: 2.01e-05   scale: 4194304.0000
+	Valid   loss/mag_mse: 7.58e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.53e-03   loss/pesq: 1.8123
+Epoch 471 - Time: 34.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1643   lr: 1.88e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.63e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0260   loss/wav_l1: 6.60e-03   loss/pesq: 1.8331
+Epoch 472 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1637   lr: 1.77e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.52e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0259   loss/wav_l1: 6.55e-03   loss/pesq: 1.8206
+Epoch 473 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1649   lr: 1.66e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.61e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0259   loss/wav_l1: 6.50e-03   loss/pesq: 1.8128
+Epoch 474 - Time: 35.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1605   lr: 1.55e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.66e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0260   loss/wav_l1: 6.57e-03   loss/pesq: 1.8353
+Epoch 475 - Time: 34.1 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.28e-03   loss/pesq: 2.1635   lr: 1.44e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.66e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.58e-03   loss/pesq: 1.8251
+Epoch 476 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1589   lr: 1.34e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.67e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.56e-03   loss/pesq: 1.8127
+Epoch 477 - Time: 33.7 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1590   lr: 1.24e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.65e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.56e-03   loss/pesq: 1.8177
+Epoch 478 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0387   loss/wav_l1: 9.25e-03   loss/pesq: 2.1592   lr: 1.15e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.70e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.55e-03   loss/pesq: 1.8355
+Epoch 479 - Time: 34.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1592   lr: 1.06e-05   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.57e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.50e-03   loss/pesq: 1.8197
+Epoch 480 - Time: 47.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.27e-03   loss/pesq: 2.1616   lr: 9.76e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.72e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.56e-03   loss/pesq: 1.8192   metrics/pesq: 2.8819   metrics/stoi: 0.9369   metrics/best_pesq: 2.8819   metrics/best_stoi: 0.9369
+Epoch 481 - Time: 34.0 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1587   lr: 8.94e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.59e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.50e-03   loss/pesq: 1.8113
+Epoch 482 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1607   lr: 8.17e-06   scale: 4194304.0000
+	Valid   loss/mag_mse: 7.72e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.56e-03   loss/pesq: 1.8197
+Epoch 483 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0387   loss/wav_l1: 9.25e-03   loss/pesq: 2.1584   lr: 7.44e-06   scale: 4194304.0000
+	Valid   loss/mag_mse: 7.75e-03   loss/complex_mse: 0.0267   loss/consistency: 0.0260   loss/wav_l1: 6.57e-03   loss/pesq: 1.8345
+Epoch 484 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1575   lr: 6.74e-06   scale: 4194304.0000
+	Valid   loss/mag_mse: 7.56e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0259   loss/wav_l1: 6.52e-03   loss/pesq: 1.8185
+Epoch 485 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1592   lr: 6.09e-06   scale: 4194304.0000
+	Valid   loss/mag_mse: 7.64e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.50e-03   loss/pesq: 1.8207
+Epoch 486 - Time: 33.3 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1576   lr: 5.47e-06   scale: 4194304.0000
+	Valid   loss/mag_mse: 7.65e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.56e-03   loss/pesq: 1.8147
+Epoch 487 - Time: 33.4 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0402   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1580   lr: 4.90e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.64e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.56e-03   loss/pesq: 1.8169
+Epoch 488 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0122   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.24e-03   loss/pesq: 2.1580   lr: 4.36e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.69e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.56e-03   loss/pesq: 1.8276
+Epoch 489 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1574   lr: 3.86e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.60e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.55e-03   loss/pesq: 1.8157
+Epoch 490 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1623   lr: 3.41e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.61e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0258   loss/wav_l1: 6.51e-03   loss/pesq: 1.8153
+Epoch 491 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.24e-03   loss/pesq: 2.1600   lr: 2.99e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.68e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.56e-03   loss/pesq: 1.8237
+Epoch 492 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0122   loss/complex_mse: 0.0401   loss/consistency: 0.0387   loss/wav_l1: 9.24e-03   loss/pesq: 2.1567   lr: 2.61e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.63e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.56e-03   loss/pesq: 1.8172
+Epoch 493 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1592   lr: 2.27e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.52e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0258   loss/wav_l1: 6.50e-03   loss/pesq: 1.8100
+Epoch 494 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0122   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1580   lr: 1.97e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.73e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.60e-03   loss/pesq: 1.8252
+Epoch 495 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.24e-03   loss/pesq: 2.1582   lr: 1.72e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.80e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.59e-03   loss/pesq: 1.8273
+Epoch 496 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1599   lr: 1.50e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.83e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0260   loss/wav_l1: 6.64e-03   loss/pesq: 1.8329
+Epoch 497 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1579   lr: 1.32e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.79e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.60e-03   loss/pesq: 1.8287
+Epoch 498 - Time: 33.6 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.26e-03   loss/pesq: 2.1569   lr: 1.18e-06   scale: 4194304.0000
+	Valid   loss/mag_mse: 7.68e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0259   loss/wav_l1: 6.55e-03   loss/pesq: 1.8173
+Epoch 499 - Time: 33.5 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0123   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1582   lr: 1.08e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.60e-03   loss/complex_mse: 0.0265   loss/consistency: 0.0259   loss/wav_l1: 6.52e-03   loss/pesq: 1.8140
+Epoch 500 - Time: 49.2 sec	Name: logs/vbd/16khz/fastenhancer_t
+	Train   loss/mag_mse: 0.0122   loss/complex_mse: 0.0401   loss/consistency: 0.0388   loss/wav_l1: 9.25e-03   loss/pesq: 2.1581   lr: 1.02e-06   scale: 2097152.0000
+	Valid   loss/mag_mse: 7.67e-03   loss/complex_mse: 0.0266   loss/consistency: 0.0259   loss/wav_l1: 6.56e-03   loss/pesq: 1.8152   metrics/pesq: 2.8935   metrics/stoi: 0.9367   metrics/best_pesq: 2.8935   metrics/best_stoi: 0.9369
